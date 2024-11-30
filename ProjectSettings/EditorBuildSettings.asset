@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/0test.unity
+    guid: 26e2b36146290204284ed9fd04f77f34
+  - enabled: 0
+    path: Assets/Scenes/TitleTest.unity
+    guid: 24cd8f715f7e7a046916c521068350e1
+  - enabled: 1
+    path: Assets/Scenes/Extra Scenes/Loading.unity
+    guid: cdbc08760673b29468192c3144557506
+  - enabled: 1
+    path: Assets/Scenes/Extra Scenes/Title Scene.unity
+    guid: 99066b01aebd80d459712c54f965c405
+  - enabled: 0
+    path: Assets/Scenes/Extra Scenes/Trailer Scene 2.unity
+    guid: 8e75687b57b226e4c9db8d08d489cc14
+  - enabled: 1
+    path: Assets/Scenes/Extra Scenes/Cutscene1.unity
+    guid: 605d5e116fd9fde42855827a03aca6f3
+  - enabled: 1
+    path: Assets/Scenes/Extra Scenes/Tutorial.unity
+    guid: 40e0255b22187e14aae4e42cecbaa1d9
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/0.unity
+    guid: 74d30d36e09c84a45b8cf8f388e43157
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/1.unity
+    guid: 9dec820624fe53746896f24b85b1162d
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/2.unity
+    guid: c298e445f7bf0614f8bddcad2394cae9
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/3.unity
+    guid: 6ff49ef6ac698204198182a725dedd3d
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/4.unity
+    guid: 609cd95fb86b90c4fa0f2736887fc0b0
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/SuddenRaid1.unity
+    guid: 3eab8e12618eb6e4ea2adf08ad06d507
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/MiniBoss1.unity
+    guid: 9061921fdf01a91499c8ca5d36735af2
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/1. Dirt Scenes/Boss1.unity
+    guid: 121acb657600cb7449326df304f065a4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/5.unity
+    guid: 82dcc174218c06a4a918dd42fcbe5ba5
+  - enabled: 0
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/6.unity
+    guid: af331e2005f758a4ca3d8289e3326dcb
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/6-1.unity
+    guid: 0f196dfb2781fff4f9d8b333663c376d
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/7.unity
+    guid: ba349d1a0f1683046a2c9e8ee9ae7a89
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/8.unity
+    guid: 5186ee2af6005744c86935b7836f76d3
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/SuddenRaid2.unity
+    guid: 6b1373b6ddeada6498ebeaaa7191d534
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/MiniBoss2.unity
+    guid: 4f84200da52f7f2468495f31ddaf09b2
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/2. Cave Scenes/Boss2.unity
+    guid: 3f1b3d5bda87add408fcfb3538e2e588
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/Ruins Lobby.unity
+    guid: 698e4f23351eccf459bae222fa3c9723
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/9.unity
+    guid: 8b79c841efccd5241b7f0edd70fd6126
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/10.unity
+    guid: 519aada0f2f926b4aa173186374f6e00
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/11.unity
+    guid: 3c056c3f08ea91c4196d333a89e6f621
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/12.unity
+    guid: 11d2eac0a5fc9934da53424c77aa7d6e
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/13.unity
+    guid: eb2f9659a21b11c44aea93d69959b693
+  - enabled: 0
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/Ruins Extra(Not In Use).unity
+    guid: 424fc26ea3d977c47a3388e8dd9a923b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/Raid3.unity
+    guid: 5cdc0dfe59651024cb6f3424d889bad2
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/Miniboss3.unity
+    guid: 614c73d9119f96842baae31be84abca2
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/3. Ruins Scenes/Boss3.unity
+    guid: 998b3765e169baa4694aec680fd5b9d8
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/4. Depths Scenes/14.unity
+    guid: f22ec42ac4373e64988cbc3484160b66
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/4. Depths Scenes/15.unity
+    guid: 6dd6be2f2447b954d947cc6eaf412429
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/4. Depths Scenes/16.unity
+    guid: 72a4d47c8b1698c4ba2124465b6cba55
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/4. Depths Scenes/17.unity
+    guid: 77d2ee31e32577b419ba541deb16f277
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/4. Depths Scenes/Raid4.unity
+    guid: 66fa38ebdd809374db0260af8b5c847c
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/4. Depths Scenes/Miniboss4.unity
+    guid: d8ab66732c0b92243a9b4c6bf8f593cc
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/4. Depths Scenes/Boss4.unity
+    guid: cfc12a62c9218c34bbbe85215f6503f4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/5. The Core Scenes/18.unity
+    guid: 3f31a863588c86e4595b2d853d122be7
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/5. The Core Scenes/19.unity
+    guid: 1bab87e6cdcbc734c83ef4b7d4d34d08
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/5. The Core Scenes/20.unity
+    guid: a186c36feb6132a4880164b8a2769b03
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/5. The Core Scenes/Raid5.unity
+    guid: 0ef71b6ba341f56439efca3545d7969b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/5. The Core Scenes/Miniboss5.unity
+    guid: 11974f1478ec6104ea4889e4ec92b65b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/5. The Core Scenes/Boss5.unity
+    guid: 032d392142f1e45459c50da6eca1373b
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 79ce87379cad7044d81faeef9ec7f389, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 12e2216b87008b949ae395f13df8af96, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 7711612e37639b145a4a1feb149db89f, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: d1df7ef0e543cdc4088cc915f44ac4d1, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 451c10a1d5923c44bbf1a52db8d21a85, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: a612ee4767481b64aa17154a28d58cb9, type: 2}

@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 7210fdf4a30bba84ba5010050974ae2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5761723524349070785
+    second: Pillar Boss_0
+  - first:
+      213: 9059086185011955260
+    second: Pillar Boss_1
+  - first:
+      213: -7814985003427174301
+    second: Pillar Boss_2
+  - first:
+      213: 48982316903857220
+    second: Pillar Boss_3
+  - first:
+      213: 5907684414833708434
+    second: Pillar Boss_4
+  - first:
+      213: 6406830725795851318
+    second: Pillar Boss_5
+  - first:
+      213: 3087637794536493034
+    second: Pillar Boss_6
+  - first:
+      213: 5632540973546711419
+    second: Pillar Boss_7
+  - first:
+      213: -4371610162384909562
+    second: Pillar Boss_8
+  - first:
+      213: 5631444190226775678
+    second: Pillar Boss_9
+  - first:
+      213: 9212290644950756863
+    second: Pillar Boss_10
+  - first:
+      213: -5838930531650584703
+    second: Pillar Boss_11
+  - first:
+      213: -8394630034896507019
+    second: Pillar Boss_12
+  - first:
+      213: -2218349515585371172
+    second: Pillar Boss_13
+  - first:
+      213: 4681778150495726705
+    second: Pillar Boss_14
+  - first:
+      213: -6944701367371263652
+    second: Pillar Boss_15
+  - first:
+      213: 2191511494439879193
+    second: Pillar Boss_16
+  - first:
+      213: 3009174469904237445
+    second: Pillar Boss_17
+  - first:
+      213: 6962761865441761792
+    second: Pillar Boss_18
+  - first:
+      213: -273224657827880394
+    second: Pillar Boss_19
+  - first:
+      213: 5989575007798636904
+    second: Pillar Boss_20
+  - first:
+      213: 3102902752670528596
+    second: Pillar Boss_21
+  - first:
+      213: 2200458468442217597
+    second: Pillar Boss_22
+  - first:
+      213: 1711464731762499737
+    second: Pillar Boss_23
+  - first:
+      213: 1060087109002188971
+    second: Pillar Boss_24
+  - first:
+      213: 7626595160828321653
+    second: Pillar Boss_25
+  - first:
+      213: 6195478714646101987
+    second: Pillar Boss_26
+  - first:
+      213: -3858248273271372304
+    second: Pillar Boss_27
+  - first:
+      213: -8388561244766236782
+    second: Pillar Boss_28
+  - first:
+      213: -7731898483052275607
+    second: Pillar Boss_29
+  - first:
+      213: -5290508922633983283
+    second: Pillar Boss_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillar Boss_0
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 350
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3279254bfe3a00b0800000000000000
+      internalID: -5761723524349070785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 284
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36494f53e658bd70800000000000000
+      internalID: 9059086185011955260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 284
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e7b18b889b8390800000000000000
+      internalID: -7814985003427174301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 325
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c745f58250ea000800000000000000
+      internalID: 48982316903857220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 375
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d464fccaf4cf150800000000000000
+      internalID: 5907684414833708434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 241
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cae1ba992a9e850800000000000000
+      internalID: 6406830725795851318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 237
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0b62173e79da20800000000000000
+      internalID: 3087637794536493034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 238
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a5174c2eca2e40800000000000000
+      internalID: 5632540973546711419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 199
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4f8618bbe453c0800000000000000
+      internalID: -4371610162384909562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 150
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e77e287a8e62e40800000000000000
+      internalID: 5631444190226775678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda1f36881a8df70800000000000000
+      internalID: 9212290644950756863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 375
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3cfdf6ed6d631e0800000000000000
+      internalID: -2218349515585371172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 325
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cab793c6409f040800000000000000
+      internalID: 4681778150495726705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 11
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c519aa6a6e67f9f90800000000000000
+      internalID: -6944701367371263652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 14
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124643d710d96e10800000000000000
+      internalID: 2191511494439879193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58301d1bc3cb2c920800000000000000
+      internalID: 3009174469904237445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 423
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ada4db603b0a060800000000000000
+      internalID: 6962761865441761792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 345
+        width: 133
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632aa4e0f9f453cf0800000000000000
+      internalID: -273224657827880394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 240
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86135674cbe3f1350800000000000000
+      internalID: 5989575007798636904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_21
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 125
+        width: 133
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45432891d99bf0b20800000000000000
+      internalID: 3102902752670528596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 143
+        width: 248
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c9f7a8159998e10800000000000000
+      internalID: 2200458468442217597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 119
+        width: 247
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99020561b1850c710800000000000000
+      internalID: 1711464731762499737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 241
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb8c01e93f7fea0800000000000000
+      internalID: -5838930531650584703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 189
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2b2db578408b80800000000000000
+      internalID: -8394630034896507019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8db0beb9f26be00800000000000000
+      internalID: 1060087109002188971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 164
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f92ee24eb17d960800000000000000
+      internalID: 7626595160828321653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 241
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef79ffd013caf550800000000000000
+      internalID: 6195478714646101987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 29
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5456823afb47ac0800000000000000
+      internalID: -3858248273271372304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_28
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 14
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f891d0ef7d59b80800000000000000
+      internalID: -8388561244766236782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 125
+        width: 105
+        height: 92
+      alignment: 9
+      pivot: {x: 0.44628906, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96899468b47c2b490800000000000000
+      internalID: -7731898483052275607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 106
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaed594a265496b0800000000000000
+      internalID: -5290508922633983283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_31
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 37
+        width: 248
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef081c55da2c515428c539decc517b03
+      internalID: 403588389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillar Boss_32
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 19
+        width: 248
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f71f8e096e6949999fbf1cf8e4a5a
+      internalID: 1373666974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pillar Boss_0: -5761723524349070785
+      Pillar Boss_1: 9059086185011955260
+      Pillar Boss_10: 9212290644950756863
+      Pillar Boss_11: -5838930531650584703
+      Pillar Boss_12: -8394630034896507019
+      Pillar Boss_13: -2218349515585371172
+      Pillar Boss_14: 4681778150495726705
+      Pillar Boss_15: -6944701367371263652
+      Pillar Boss_16: 2191511494439879193
+      Pillar Boss_17: 3009174469904237445
+      Pillar Boss_18: 6962761865441761792
+      Pillar Boss_19: -273224657827880394
+      Pillar Boss_2: -7814985003427174301
+      Pillar Boss_20: 5989575007798636904
+      Pillar Boss_21: 3102902752670528596
+      Pillar Boss_22: 2200458468442217597
+      Pillar Boss_23: 1711464731762499737
+      Pillar Boss_24: 1060087109002188971
+      Pillar Boss_25: 7626595160828321653
+      Pillar Boss_26: 6195478714646101987
+      Pillar Boss_27: -3858248273271372304
+      Pillar Boss_28: -8388561244766236782
+      Pillar Boss_29: -7731898483052275607
+      Pillar Boss_3: 48982316903857220
+      Pillar Boss_30: -5290508922633983283
+      Pillar Boss_31: 403588389
+      Pillar Boss_32: 1373666974
+      Pillar Boss_4: 5907684414833708434
+      Pillar Boss_5: 6406830725795851318
+      Pillar Boss_6: 3087637794536493034
+      Pillar Boss_7: 5632540973546711419
+      Pillar Boss_8: -4371610162384909562
+      Pillar Boss_9: 5631444190226775678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

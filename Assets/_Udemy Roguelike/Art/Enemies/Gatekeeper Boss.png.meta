@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 61a8b0910284fe64ab4d283c1ff00fff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4082107139336129111
+    second: Gatekeeper Boss_0
+  - first:
+      213: 8341398011729057359
+    second: Gatekeeper Boss_1
+  - first:
+      213: 6956882323929662770
+    second: Gatekeeper Boss_2
+  - first:
+      213: 1602743553893183946
+    second: Gatekeeper Boss_3
+  - first:
+      213: -666165928072764425
+    second: Gatekeeper Boss_4
+  - first:
+      213: 8041314108632116496
+    second: Gatekeeper Boss_5
+  - first:
+      213: -2090088608296706204
+    second: Gatekeeper Boss_6
+  - first:
+      213: -6547444279768026488
+    second: Gatekeeper Boss_7
+  - first:
+      213: 6194051981590276060
+    second: Gatekeeper Boss_8
+  - first:
+      213: 280124567618000953
+    second: Gatekeeper Boss_9
+  - first:
+      213: -199482335515046565
+    second: Gatekeeper Boss_10
+  - first:
+      213: 5438736992527201683
+    second: Gatekeeper Boss_11
+  - first:
+      213: 7213114630215265428
+    second: Gatekeeper Boss_12
+  - first:
+      213: 1597034791740963567
+    second: Gatekeeper Boss_13
+  - first:
+      213: 8438821851815777959
+    second: Gatekeeper Boss_14
+  - first:
+      213: 7752717521739140863
+    second: Gatekeeper Boss_15
+  - first:
+      213: 7166944118258877855
+    second: Gatekeeper Boss_16
+  - first:
+      213: 7350398827870883817
+    second: Gatekeeper Boss_17
+  - first:
+      213: -2462013410240322960
+    second: Gatekeeper Boss_18
+  - first:
+      213: -5712907463701803134
+    second: Gatekeeper Boss_19
+  - first:
+      213: -888814431084885247
+    second: Gatekeeper Boss_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gatekeeper Boss_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 290
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5b8c84f217957c0800000000000000
+      internalID: -4082107139336129111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 233
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46924b0c4992c370800000000000000
+      internalID: 8341398011729057359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 301
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235850e4d9fcb8060800000000000000
+      internalID: 6956882323929662770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 372
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b9d345c61e3610800000000000000
+      internalID: 1602743553893183946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 218
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f321cf2e9d41c6f0800000000000000
+      internalID: -666165928072764425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 148
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01daa5cb39c789f60800000000000000
+      internalID: 8041314108632116496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 40
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.8161392, y: 0.16278522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f52690c738ef2e0800000000000000
+      internalID: -2090088608296706204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 34
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.87575424, y: 0.8203559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88273cd0e1ec225a0800000000000000
+      internalID: -6547444279768026488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 29
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0.2024572, y: 0.8681127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72ef2b571b5f550800000000000000
+      internalID: 6194051981590276060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 51
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381bb16fc333e300800000000000000
+      internalID: 280124567618000953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 51
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d09ac6fdb4b3df0800000000000000
+      internalID: -199482335515046565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 52
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953c52aa764a7b40800000000000000
+      internalID: 5438736992527201683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 364
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c672a1a812a1460800000000000000
+      internalID: 7213114630215265428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 7
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.1530037, y: 0.8296707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf8af7eaec92610800000000000000
+      internalID: 1597034791740963567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 70
+        width: 50
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5101421, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6984073c7bc1570800000000000000
+      internalID: 8438821851815777959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5316743, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4537a28f279b60800000000000000
+      internalID: 7752717521739140863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0.54156965, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9545e514b9167360800000000000000
+      internalID: 7166944118258877855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5390073, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef01b43accd10660800000000000000
+      internalID: 7350398827870883817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a06209db25ddd0800000000000000
+      internalID: -2462013410240322960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f40671eeca7b0b0800000000000000
+      internalID: -5712907463701803134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper Boss_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.542, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc1fbebfb4aa3f0800000000000000
+      internalID: -888814431084885247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gatekeeper Boss_0: -4082107139336129111
+      Gatekeeper Boss_1: 8341398011729057359
+      Gatekeeper Boss_10: -199482335515046565
+      Gatekeeper Boss_11: 5438736992527201683
+      Gatekeeper Boss_12: 7213114630215265428
+      Gatekeeper Boss_13: 1597034791740963567
+      Gatekeeper Boss_14: 8438821851815777959
+      Gatekeeper Boss_15: 7752717521739140863
+      Gatekeeper Boss_16: 7166944118258877855
+      Gatekeeper Boss_17: 7350398827870883817
+      Gatekeeper Boss_18: -2462013410240322960
+      Gatekeeper Boss_19: -5712907463701803134
+      Gatekeeper Boss_2: 6956882323929662770
+      Gatekeeper Boss_20: -888814431084885247
+      Gatekeeper Boss_3: 1602743553893183946
+      Gatekeeper Boss_4: -666165928072764425
+      Gatekeeper Boss_5: 8041314108632116496
+      Gatekeeper Boss_6: -2090088608296706204
+      Gatekeeper Boss_7: -6547444279768026488
+      Gatekeeper Boss_8: 6194051981590276060
+      Gatekeeper Boss_9: 280124567618000953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

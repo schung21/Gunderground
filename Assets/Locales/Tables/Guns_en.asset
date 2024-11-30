@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Guns_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e4cc4296770000d4086601acae713f9f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 55444422656
+    m_Localized: Desert Eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773329145217024
+    m_Localized: Dual Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 999712479952896
+    m_Localized: Bazooka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776381491232768
+    m_Localized: Revolver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776489507143680
+    m_Localized: Sawed-Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 777047437656064
+    m_Localized: UZI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 999985160044544
+    m_Localized: Blaster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000160230293504
+    m_Localized: Captain Carrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001676626378752
+    m_Localized: Chakram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001845170290688
+    m_Localized: Colt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001968315056128
+    m_Localized: Double Barrel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002078709137408
+    m_Localized: Dual Uzi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002236062646272
+    m_Localized: Minigun V1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002351821242368
+    m_Localized: Sniper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002434000240640
+    m_Localized: Winchester
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002819456778240
+    m_Localized: Agent X
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002973656170496
+    m_Localized: Barrett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003175553187840
+    m_Localized: Flamethrower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003176257830912
+    m_Localized: Grenadier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003178837327872
+    m_Localized: Hunter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004402148032512
+    m_Localized: Dual Magnum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004730595590144
+    m_Localized: Minigun V2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004857569755136
+    m_Localized: Red Tiger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004978210521088
+    m_Localized: Stinger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005069986086912
+    m_Localized: Zigzag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005226957914112
+    m_Localized: Annihilator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005319865942016
+    m_Localized: Crisis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005405882728448
+    m_Localized: Doomsday
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005870259290112
+    m_Localized: Dragonbreath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1006024005697536
+    m_Localized: Frenzy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007048804188160
+    m_Localized: Frostbite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007187283329024
+    m_Localized: Fury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007307009736704
+    m_Localized: Void
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007627408424960
+    m_Localized: Havoc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007856497115136
+    m_Localized: Leviathan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008459487035392
+    m_Localized: Liberator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010649131827200
+    m_Localized: Rebound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010732615254016
+    m_Localized: Tempest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1011012207558656
+    m_Localized: Wraith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1054500110385152
+    m_Localized: Dancing Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1427091597737984
+    m_Localized: '* Knife Damage'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1436047036563456
+    m_Localized: '* Full Penetration'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1437077325398016
+    m_Localized: '* Burn Effect'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1437461972434944
+    m_Localized: '* Ricochet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438724780900352
+    m_Localized: '* Split fire on crit'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1439827731857408
+    m_Localized: '* Grenade launcher'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440355354329088
+    m_Localized: '* Have an explosive day!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440886541959168
+    m_Localized: '* Laser blaster disaster'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1441546423418880
+    m_Localized: '* Seek and destroy'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1446639738732544
+    m_Localized: '* Hot and cold'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1446653386997760
+    m_Localized: '* Pierce the skies'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1448415275696128
+    m_Localized: '* Sparkly crits!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449021377789952
+    m_Localized: '* Crazier every second'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449361535844352
+    m_Localized: '* Special delivery'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1450258617778176
+    m_Localized: '* No escape'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1450559676530688
+    m_Localized: '* Boom times four'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451113597288448
+    m_Localized: '* Lock and explode'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451599721316352
+    m_Localized: '* It shall burn'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451821532889088
+    m_Localized: '* Rage from above'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452021013987328
+    m_Localized: '* Spray and pray'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452416293584896
+    m_Localized: '* Draw!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23952170084646912
+    m_Localized: Stardust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23954358970269696
+    m_Localized: Starlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26377273892323328
+    m_Localized: '* Make a wish'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

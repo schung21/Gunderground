@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Guns Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Guns
+  m_TableCollectionNameGuidString: e4cc4296770000d4086601acae713f9f
+  m_Entries:
+  - m_Id: 55444422656
+    m_Key: Desert Eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773329145217024
+    m_Key: Dual Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776381491232768
+    m_Key: Revolver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776489507143680
+    m_Key: Sawed-Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 777047437656064
+    m_Key: Uzi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 999712479952896
+    m_Key: Bazooka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 999985160044544
+    m_Key: Blaster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1000160230293504
+    m_Key: Captain Carrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001676626378752
+    m_Key: Chakram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001845170290688
+    m_Key: Colt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1001968315056128
+    m_Key: Double Barrel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002078709137408
+    m_Key: Dual Uzi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002236062646272
+    m_Key: Minigun V1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002351821242368
+    m_Key: Sniper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002434000240640
+    m_Key: Winchester
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002819456778240
+    m_Key: Agent X
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1002973656170496
+    m_Key: Barrett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003175553187840
+    m_Key: Flamethrower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003176257830912
+    m_Key: Grenadier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1003178837327872
+    m_Key: Hunter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004402148032512
+    m_Key: Magnum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004730595590144
+    m_Key: Minigun V2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004857569755136
+    m_Key: Red Tiger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1004978210521088
+    m_Key: Stinger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005069986086912
+    m_Key: Zigzag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005226957914112
+    m_Key: Annihilator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005319865942016
+    m_Key: Crisis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005405882728448
+    m_Key: Doomsday
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005870259290112
+    m_Key: Dragonbreath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1006024005697536
+    m_Key: Frenzy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007048804188160
+    m_Key: Frostbite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007187283329024
+    m_Key: Fury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007307009736704
+    m_Key: Gravity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007627408424960
+    m_Key: Havoc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007856497115136
+    m_Key: Leviathan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008459487035392
+    m_Key: Liberator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010649131827200
+    m_Key: Rebound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010732615254016
+    m_Key: Tempest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1011012207558656
+    m_Key: Wraith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1054500110385152
+    m_Key: Dancing Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1427091597737984
+    m_Key: Knife Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1436047036563456
+    m_Key: Full Penetration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1437077325398016
+    m_Key: Burn Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1437461972434944
+    m_Key: Ricochet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438724780900352
+    m_Key: Split Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1439827731857408
+    m_Key: Grenade Launcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440355354329088
+    m_Key: Explosive Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440886541959168
+    m_Key: Laser Blaster Disaster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1441546423418880
+    m_Key: Seek and Destroy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1446639738732544
+    m_Key: Hot and Cold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1446653386997760
+    m_Key: Pierce the sky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1448415275696128
+    m_Key: Sparkly crits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449021377789952
+    m_Key: Crazier every second
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1449361535844352
+    m_Key: Special delivery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1450258617778176
+    m_Key: No escape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1450559676530688
+    m_Key: Boom times four
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451113597288448
+    m_Key: Lock and explode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451599721316352
+    m_Key: Shall burn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1451821532889088
+    m_Key: Rage from above
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452021013987328
+    m_Key: Spray and pray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452416293584896
+    m_Key: Draw!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23952170084646912
+    m_Key: Stardust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23954358970269696
+    m_Key: Starlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26377273892323328
+    m_Key: Make a wish
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6671521485866401792
+  references:
+    version: 2
+    RefIds:
+    - rid: 6671521485866401792
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1718976541793

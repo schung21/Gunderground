@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2d8025ed62c74544390dff1007f96d69
+  m_SerializeEntries:
+  - m_GUID: ae2fccbc98b9e624ba4a1e1c95b57d02
+    m_Address: Assets/Locales/New Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4cc4296770000d4086601acae713f9f
+    m_Address: Assets/Locales/Tables/Guns Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e9a5296db764974dba53cfb182163ab
+    m_Address: Assets/Locales/Tables/Cutscene-Tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9b4d906d5fc4214bb257da93efdb53d
+    m_Address: Assets/Locales/Tables/Pickups&Dungeon Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f4a0411bee38f04da14c1cd9e4305dc
+    m_Address: Assets/Locales/Tables/Update Changes Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 282b2d987a33fc4478cd2b2ced8fea2f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 47129533d4eb3bf41aaa452abf47f851, type: 2}
+    - {fileID: 11400000, guid: 9ba70c67b025472438252078f8d556f3, type: 2}

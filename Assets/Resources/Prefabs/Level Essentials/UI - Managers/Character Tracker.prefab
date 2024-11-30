@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &991529893452102890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 991529893452102888}
+  - component: {fileID: 991529893452102889}
+  - component: {fileID: 1992842417127545791}
+  m_Layer: 0
+  m_Name: Character Tracker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &991529893452102888
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991529893452102890}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.25680292, y: -0.07521864, z: -6.201746}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &991529893452102889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991529893452102890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77d24003388b7894287fa7d0bf81f9d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unlockedGuns: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  unlockedChars: 000000000000000000000000000000000000000000000000
+  charExp: 000000000000000000000000000000000000000000000000
+  Levels: 010000000100000001000000010000000100000001000000
+  maxExp: e8030000e8030000e8030000e8030000e8030000e8030000
+  bunnyTrait: 000000000000000000000000000000000000000000000000
+  moleTrait: 000000000000000000000000000000000000000000000000
+  raccTrait: 000000000000000000000000000000000000000000000000
+  cptTrait: 000000000000000000000000000000000000000000000000
+  foxTrait: 000000000000000000000000000000000000000000000000
+  coyoteTrait: 000000000000000000000000000000000000000000000000
+  skinCode: 00000000000000000000000000000000
+  bunnySkin: 0000000000000000000000000000000000000000
+  moleSkin: 0000000000000000000000000000000000000000
+  raccSkin: 0000000000000000000000000000000000000000
+  cptSkin: 0000000000000000000000000000000000000000
+  runeStats: 00000000000000000000000000000000000000000000000000000000
+  currentHealth: 5
+  maxHealth: 5
+  currentGems: 0
+  currentKeys: 0
+  currentParts: 0
+  currentBuys: 0
+  tutorialCode: 0
+  storyCode: 0
+  currentCoins: 0
+  currentRunes: 0
+  buyAmt: 0
+  timeRecord: 0
+  vendingTime1: 
+  vendingTime2: 
+  vendingTime3: 
+  storeItemTime1: 
+  dailyGiftTime: 
+  savedLevel: 
+  storeItems: []
+  guns:
+  - 
+  - 
+  - 
+  - 
+  - 
+  artifacts: 
+  savedCoins: 0
+  revives: 0
+  character: 0
+  maxhealth: 0
+  playTime: 0
+--- !u!114 &1992842417127545791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991529893452102890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b214d2523f9a2cd438547471125562c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isMain: 0
+  success1: {fileID: 0}
+  success2: {fileID: 0}
+  fail1: {fileID: 0}
+  fail2: {fileID: 0}
+  fail3: {fileID: 0}
+  cloudNotice: {fileID: 0}
+  notLoggedIn: {fileID: 0}
+  cover: {fileID: 0}

@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 131f03b32ab0753419a00cced0c3c86f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2688976650366101123
+    second: Characters - Mole_0
+  - first:
+      213: -764449171906026595
+    second: Characters - Mole_1
+  - first:
+      213: -5914536902687490534
+    second: Characters - Mole_2
+  - first:
+      213: 215712937801982186
+    second: Characters - Mole_3
+  - first:
+      213: 8896070405423121694
+    second: Characters - Mole_4
+  - first:
+      213: -7230336424543931746
+    second: Characters - Mole_5
+  - first:
+      213: -8285301539480592209
+    second: Characters - Mole_6
+  - first:
+      213: 3782486792816700872
+    second: Characters - Mole_7
+  - first:
+      213: -5390604316817760341
+    second: Characters - Mole_8
+  - first:
+      213: -6279500273724900951
+    second: Characters - Mole_9
+  - first:
+      213: -1525791559341827723
+    second: Characters - Mole_10
+  - first:
+      213: -2968283471396847014
+    second: Characters - Mole_11
+  - first:
+      213: -2481342392155321371
+    second: Characters - Mole_12
+  - first:
+      213: -389283574860312425
+    second: Characters - Mole_13
+  - first:
+      213: 9100300715000457909
+    second: Characters - Mole_14
+  - first:
+      213: -1432460618728658319
+    second: Characters - Mole_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Characters - Mole_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3862466440a215520800000000000000
+      internalID: 2688976650366101123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 131
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9323b347812465f0800000000000000
+      internalID: -764449171906026595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 131
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7f5806085beda0800000000000000
+      internalID: -5914536902687490534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 131
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a42726cd5ef200800000000000000
+      internalID: 215712937801982186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e154c1c76e0357b70800000000000000
+      internalID: 8896070405423121694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92bd70745fa8ab90800000000000000
+      internalID: -7230336424543931746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 108
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa02342b522b40d80800000000000000
+      internalID: -8285301539480592209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd227592b71e7430800000000000000
+      internalID: 3782486792816700872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 101
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd36b3fe9b035b0800000000000000
+      internalID: -5390604316817760341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 101
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b8a175cbbad8a0800000000000000
+      internalID: -6279500273724900951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 101
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579142829ac43dae0800000000000000
+      internalID: -1525791559341827723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a524abec8e98ec6d0800000000000000
+      internalID: -2968283471396847014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 73
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc675bd30809dd0800000000000000
+      internalID: -2481342392155321371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 76
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909e83b6acf89af0800000000000000
+      internalID: -389283574860312425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 107
+        height: 56
+      alignment: 9
+      pivot: {x: 0.46770933, y: 0.7047879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bae5dae843ca4e70800000000000000
+      internalID: 9100300715000457909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 62
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.66327906, y: 0.784107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a21f128a0ee1ce0800000000000000
+      internalID: -1432460618728658319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 18
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a9ec126b7132c47ade2de1e8f24190
+      internalID: -1095032732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035837cd0875244283e67967f62c124
+      internalID: -2099091287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Mole_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68364a1421defce4abd2dd65eab9bbf5
+      internalID: 2111706672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Characters - Mole_0: 2688976650366101123
+      Characters - Mole_1: -764449171906026595
+      Characters - Mole_10: -1525791559341827723
+      Characters - Mole_11: -2968283471396847014
+      Characters - Mole_12: -2481342392155321371
+      Characters - Mole_13: -389283574860312425
+      Characters - Mole_14: 9100300715000457909
+      Characters - Mole_15: -1432460618728658319
+      Characters - Mole_16: -1095032732
+      Characters - Mole_17: -2099091287
+      Characters - Mole_18: 2111706672
+      Characters - Mole_2: -5914536902687490534
+      Characters - Mole_3: 215712937801982186
+      Characters - Mole_4: 8896070405423121694
+      Characters - Mole_5: -7230336424543931746
+      Characters - Mole_6: -8285301539480592209
+      Characters - Mole_7: 3782486792816700872
+      Characters - Mole_8: -5390604316817760341
+      Characters - Mole_9: -6279500273724900951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

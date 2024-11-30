@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: ddd12204b7a1db54290d58cc776acb3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2869229609918440486
+    second: Mini Boss - Crimson Mole_0
+  - first:
+      213: 3819478752740770218
+    second: Mini Boss - Crimson Mole_1
+  - first:
+      213: -5593311099576100966
+    second: Mini Boss - Crimson Mole_2
+  - first:
+      213: 5890166283016358849
+    second: Mini Boss - Crimson Mole_3
+  - first:
+      213: -417400353338548647
+    second: Mini Boss - Crimson Mole_4
+  - first:
+      213: 6646074384415775573
+    second: Mini Boss - Crimson Mole_5
+  - first:
+      213: -1616781854877811177
+    second: Mini Boss - Crimson Mole_6
+  - first:
+      213: 9152529117767122389
+    second: Mini Boss - Crimson Mole_7
+  - first:
+      213: 5501034680003788189
+    second: Mini Boss - Crimson Mole_8
+  - first:
+      213: -5452221514824130233
+    second: Mini Boss - Crimson Mole_9
+  - first:
+      213: -4232930982654968091
+    second: Mini Boss - Crimson Mole_10
+  - first:
+      213: -659888220484848164
+    second: Mini Boss - Crimson Mole_11
+  - first:
+      213: 3420606159578063720
+    second: Mini Boss - Crimson Mole_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 131
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb57c12fd27e28d0800000000000000
+      internalID: -2869229609918440486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1044c60b3810530800000000000000
+      internalID: 3819478752740770218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 108
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97548780319062b0800000000000000
+      internalID: -5593311099576100966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 101
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb4c27e6031eb150800000000000000
+      internalID: 5890166283016358849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e12221798153af0800000000000000
+      internalID: -417400353338548647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 73
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdce1b0799b3c50800000000000000
+      internalID: 6646074384415775573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef5b418790099e0800000000000000
+      internalID: -1616781854877811177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 101
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddbdec8db0540f70800000000000000
+      internalID: 9152529117767122389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 102
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dfabe45e9975c40800000000000000
+      internalID: 5501034680003788189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 77
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7416a2c5b61d554b0800000000000000
+      internalID: -5452221514824130233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 30
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eefa14c2bb9145c0800000000000000
+      internalID: -4232930982654968091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 30
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53982e82b97d6f0800000000000000
+      internalID: -659888220484848164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Crimson Mole_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: 0.32066855, y: 0.68050766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e922dd2f687f20800000000000000
+      internalID: 3420606159578063720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mini Boss - Crimson Mole_0: -2869229609918440486
+      Mini Boss - Crimson Mole_1: 3819478752740770218
+      Mini Boss - Crimson Mole_10: -4232930982654968091
+      Mini Boss - Crimson Mole_11: -659888220484848164
+      Mini Boss - Crimson Mole_12: 3420606159578063720
+      Mini Boss - Crimson Mole_2: -5593311099576100966
+      Mini Boss - Crimson Mole_3: 5890166283016358849
+      Mini Boss - Crimson Mole_4: -417400353338548647
+      Mini Boss - Crimson Mole_5: 6646074384415775573
+      Mini Boss - Crimson Mole_6: -1616781854877811177
+      Mini Boss - Crimson Mole_7: 9152529117767122389
+      Mini Boss - Crimson Mole_8: 5501034680003788189
+      Mini Boss - Crimson Mole_9: -5452221514824130233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

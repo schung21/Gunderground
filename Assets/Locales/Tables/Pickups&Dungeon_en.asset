@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Pickups&Dungeon_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c9b4d906d5fc4214bb257da93efdb53d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2115594272768
+    m_Localized: Dig Drill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3634917982208
+    m_Localized: Dual Wield +30sec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3968235126784
+    m_Localized: Fire Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5664881426432
+    m_Localized: Ice Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5828169875456
+    m_Localized: Spike Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5963025137664
+    m_Localized: Max Guns +1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7003015397376
+    m_Localized: Shield +3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7240060682240
+    m_Localized: Ult Cooldown -2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19841326956544
+    m_Localized: Max Ammo +500
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213753953959936
+    m_Localized: Welcome, need anything?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214182095929344
+    m_Localized: Thanks, need anything else?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214326442901504
+    m_Localized: Check your wallet, buddy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214870901309440
+    m_Localized: Hey brother. How's saving the world going?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215196144418816
+    m_Localized: Thanks. What? There's no such thing as family discount.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217654673457152
+    m_Localized: 'Don''t toy with me.
+
+      I know you''re rich.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218318396899328
+    m_Localized: 'Vile has deceived us..
+
+      You must stop him..'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219803214069760
+    m_Localized: No world...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219821467680768
+    m_Localized: Is big enough...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219834822344704
+    m_Localized: For all of us..!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219849955393536
+    m_Localized: Die...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219867709882368
+    m_Localized: The haven will suffer...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219880859025408
+    m_Localized: the same fate...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271539320569856
+    m_Localized: To Be Continued
+    m_Metadata:
+      m_Items: []
+  - m_Id: 565477285740544
+    m_Localized: Business till the end, friend.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571162287325184
+    m_Localized: Good luck.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571431834271744
+    m_Localized: Thanks. Let's do this again after all of this.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 571764480327680
+    m_Localized: Business till the end, brother.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694861120323584
+    m_Localized: This must be where the Antlered hid for centuries.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719985387159552
+    m_Localized: Quite a discovery, agent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721015927652352
+    m_Localized: Agent, glad to see you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 721341288202240
+    m_Localized: Whatever lives here can't be nice so be wary.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732473956679680
+    m_Localized: Dirt - 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732800927842304
+    m_Localized: Dirt - 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732815859564544
+    m_Localized: Dirt - 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732817600200704
+    m_Localized: Dirt - 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732974404255744
+    m_Localized: Encounter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 733454312325120
+    m_Localized: Raid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 733686727098368
+    m_Localized: Dirt End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 733862086754304
+    m_Localized: Cave - 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108605105258496
+    m_Localized: Cave - 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108606690705408
+    m_Localized: Cave - 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108607525371904
+    m_Localized: Cave - 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108608167100416
+    m_Localized: Cave - End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108932449714176
+    m_Localized: Campsite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1109317860114432
+    m_Localized: Ruins - 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112877536559104
+    m_Localized: Ruins - 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112879382052864
+    m_Localized: Ruins - 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112982931030016
+    m_Localized: Ruins - 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1112983866359808
+    m_Localized: Ruins - 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113123826089984
+    m_Localized: Ruins - End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113360665853952
+    m_Localized: Depths - 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114052612767744
+    m_Localized: Depths - 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114064822386688
+    m_Localized: Depths - 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114098381012992
+    m_Localized: Depths - 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114235782217728
+    m_Localized: Depths - End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114332171517952
+    m_Localized: Underworld - 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1119610434666496
+    m_Localized: Underworld - 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1119611873312768
+    m_Localized: Underworld - 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1119613421010944
+    m_Localized: Underworld - End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1120110949351424
+    m_Localized: Volcaneye
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1120606783193088
+    m_Localized: Skeleking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1121113874546688
+    m_Localized: The Last Sentinel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1124673932673024
+    m_Localized: Voidrock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1125317959663616
+    m_Localized: Commander Vile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1125743547301888
+    m_Localized: Story Part 1 Clear Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1708769360658432
+    m_Localized: Defeat All Enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1733390004830208
+    m_Localized: Press to Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3172437780774912
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3172457808576512
+    m_Localized: Revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3173290377920512
+    m_Localized: Character Unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35234338157019136
+    m_Localized: Sir! Need help?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35234809680674816
+    m_Localized: Press "A" to accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35237217328611328
+    m_Localized: Destroy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35542316080873472
+    m_Localized: Let's hope we're not too late.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41676821258747904
+    m_Localized: Plasma Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44272446936629248
+    m_Localized: Closing in 10 seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48920247770005504
+    m_Localized: Fire Rate +10%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49666889198632960
+    m_Localized: Ice Star
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

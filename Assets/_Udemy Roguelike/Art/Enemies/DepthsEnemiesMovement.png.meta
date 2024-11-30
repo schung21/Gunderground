@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: bac8c9ba9f8039345990bb35e16daedd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 120824867593483774
+    second: DepthsEnemiesMovement_0
+  - first:
+      213: 2358918697059058612
+    second: DepthsEnemiesMovement_1
+  - first:
+      213: -4483940383614040517
+    second: DepthsEnemiesMovement_2
+  - first:
+      213: 8289308417611571914
+    second: DepthsEnemiesMovement_3
+  - first:
+      213: -9113477159215059419
+    second: DepthsEnemiesMovement_4
+  - first:
+      213: 1630418475718174790
+    second: DepthsEnemiesMovement_5
+  - first:
+      213: -3125647485587228851
+    second: DepthsEnemiesMovement_6
+  - first:
+      213: 1375610029286559120
+    second: DepthsEnemiesMovement_7
+  - first:
+      213: -1313418366795217106
+    second: DepthsEnemiesMovement_8
+  - first:
+      213: -8566861967943541828
+    second: DepthsEnemiesMovement_9
+  - first:
+      213: 1362027018896700118
+    second: DepthsEnemiesMovement_10
+  - first:
+      213: 511456664227960142
+    second: DepthsEnemiesMovement_11
+  - first:
+      213: -656000315044885928
+    second: DepthsEnemiesMovement_12
+  - first:
+      213: -2952802034029932529
+    second: DepthsEnemiesMovement_13
+  - first:
+      213: -6766283552944827976
+    second: DepthsEnemiesMovement_14
+  - first:
+      213: 9068107177437278624
+    second: DepthsEnemiesMovement_15
+  - first:
+      213: -4438069072787492377
+    second: DepthsEnemiesMovement_16
+  - first:
+      213: 4467308160503001556
+    second: DepthsEnemiesMovement_17
+  - first:
+      213: -216525823510669604
+    second: DepthsEnemiesMovement_18
+  - first:
+      213: -7602608225539352228
+    second: DepthsEnemiesMovement_19
+  - first:
+      213: -4744102021368781405
+    second: DepthsEnemiesMovement_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 193
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef571f0b3914da100800000000000000
+      internalID: 120824867593483774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38b309e009cb020800000000000000
+      internalID: 2358918697059058612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3608a06af7d5c1c0800000000000000
+      internalID: -4483940383614040517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 143
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a461561a890370800000000000000
+      internalID: 8289308417611571914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 143
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea9581fcc668180800000000000000
+      internalID: -9113477159215059419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 78
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6486a6027f860a610800000000000000
+      internalID: 1630418475718174790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 77
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47fa781c287f94d0800000000000000
+      internalID: -3125647485587228851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 77
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d07198806271310800000000000000
+      internalID: 1375610029286559120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2782b544fcc5cde0800000000000000
+      internalID: -1313418366795217106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbdbe8ed646c1980800000000000000
+      internalID: -8566861967943541828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d272db7b54e6e210800000000000000
+      internalID: 1362027018896700118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 27
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.479, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455055502f091700800000000000000
+      internalID: 511456664227960142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 27
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: 0.485, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a8439603b65e6f0800000000000000
+      internalID: -656000315044885928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 143
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f005895d13a8507d0800000000000000
+      internalID: -2952802034029932529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d72935f45912a0800000000000000
+      internalID: -6766283552944827976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 193
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b158de6368dd70800000000000000
+      internalID: 9068107177437278624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 193
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1bad331bfc862c0800000000000000
+      internalID: -4438069072787492377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 193
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d13cf86a111ffd30800000000000000
+      internalID: 4467308160503001556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd692f429eebefcf0800000000000000
+      internalID: -216525823510669604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599346691c1e7690800000000000000
+      internalID: -7602608225539352228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e91ec850992eb0800000000000000
+      internalID: -4744102021368781405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 164
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9398c078a9f6db4289cc02623fc6170
+      internalID: -1431433396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 164
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863962aac33628449af88c2a3c2fdfcb
+      internalID: -871980374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DepthsEnemiesMovement_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b728d8a216dd3434384b665a83ce39e3
+      internalID: -254273863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DepthsEnemiesMovement_0: 120824867593483774
+      DepthsEnemiesMovement_1: 2358918697059058612
+      DepthsEnemiesMovement_10: 1362027018896700118
+      DepthsEnemiesMovement_11: 511456664227960142
+      DepthsEnemiesMovement_12: -656000315044885928
+      DepthsEnemiesMovement_13: -2952802034029932529
+      DepthsEnemiesMovement_14: -6766283552944827976
+      DepthsEnemiesMovement_15: 9068107177437278624
+      DepthsEnemiesMovement_16: -4438069072787492377
+      DepthsEnemiesMovement_17: 4467308160503001556
+      DepthsEnemiesMovement_18: -216525823510669604
+      DepthsEnemiesMovement_19: -7602608225539352228
+      DepthsEnemiesMovement_2: -4483940383614040517
+      DepthsEnemiesMovement_20: -4744102021368781405
+      DepthsEnemiesMovement_21: -1431433396
+      DepthsEnemiesMovement_22: -871980374
+      DepthsEnemiesMovement_23: -254273863
+      DepthsEnemiesMovement_3: 8289308417611571914
+      DepthsEnemiesMovement_4: -9113477159215059419
+      DepthsEnemiesMovement_5: 1630418475718174790
+      DepthsEnemiesMovement_6: -3125647485587228851
+      DepthsEnemiesMovement_7: 1375610029286559120
+      DepthsEnemiesMovement_8: -1313418366795217106
+      DepthsEnemiesMovement_9: -8566861967943541828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

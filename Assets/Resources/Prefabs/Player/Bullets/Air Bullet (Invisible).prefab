@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2446466093292333966
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2446466093292333957}
+  - component: {fileID: 2446466093292333955}
+  - component: {fileID: 2446466093292333952}
+  - component: {fileID: 2446466093292333953}
+  - component: {fileID: -7086752000913723878}
+  m_Layer: 7
+  m_Name: Air Bullet (Invisible)
+  m_TagString: Bullets
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2446466093292333957
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2446466093292333966}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.7242629, y: 0.8558906, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2446466093292333955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2446466093292333966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3dc6d6608f68d4b97d40e3ace7ba4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isSplash: 0
+  isExplode: 0
+  isExplodePlus: 0
+  isPenetrate: 1
+  noEffects: 0
+  isShockwave: 0
+  isBomb: 0
+  speed: 50
+  explosiveRadius: 0
+  theRB: {fileID: 2446466093292333953}
+  impactEffect: {fileID: 298147760433662707, guid: 836b1c359c6af5a4ca3adedcc8bff99c, type: 3}
+  critEffect: {fileID: 9092124052786196542, guid: 02a58b8ace596b14dabf7e2619a7c4fc, type: 3}
+  impactEnemyEffect: {fileID: 5912977360426564106, guid: 3bf47fac831c08148a7c8b28de96f35c, type: 3}
+  impactEnemyEffect2: {fileID: 5247853920254433522, guid: fb18a10fdcad8bd4288c75c29d4643c8, type: 3}
+  impactEnemyEffect3: {fileID: 0}
+  impactDirtEffect: {fileID: 8526784054346493387, guid: 1be637b927a60824caf539b73e30c5b2, type: 3}
+  invisBlock: {fileID: 0}
+  gunCritRate: 0.1
+  bulletDamage: 200
+  critChance: 0
+  revolverCollider: {fileID: 0}
+  whatIsBox:
+    serializedVersion: 2
+    m_Bits: 0
+  counter: 0
+  knockbackForce: 200
+  knockbackDuration: 0.5
+  stunDuration: 0
+--- !u!61 &2446466093292333952
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2446466093292333966}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.05103466, y: 0.0033688545}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.5, y: 0.25}
+    newSize: {x: 0.625, y: 0.3125}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.36316735, y: 2.8225179}
+  m_EdgeRadius: 0
+--- !u!50 &2446466093292333953
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2446466093292333966}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 0.0001
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &-7086752000913723878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2446466093292333966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c23f11724415247499ea35d17ae1d073, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

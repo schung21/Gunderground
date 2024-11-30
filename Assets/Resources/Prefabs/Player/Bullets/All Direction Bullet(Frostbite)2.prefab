@@ -1,0 +1,824 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &708053022752882298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 973315665792822691}
+  m_Layer: 0
+  m_Name: All Direction Bullet(Frostbite)2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &973315665792822691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 708053022752882298}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1910018367529716825}
+  - {fileID: 5448242233597432147}
+  - {fileID: 3933456932030899195}
+  - {fileID: 5311079429871950463}
+  - {fileID: 343199511042335858}
+  - {fileID: 4958184228995414148}
+  - {fileID: 2918621503434526150}
+  - {fileID: 2026205776380969890}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1225116901092136662
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite) (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &4958184228995414148 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 1225116901092136662}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2052446844566205485
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite) (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &5311079429871950463 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 2052446844566205485}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2185218267549843201
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &5448242233597432147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 2185218267549843201}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5319305824128200176
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 135
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite) (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &2026205776380969890 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 5319305824128200176}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5714716668111823371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &1910018367529716825 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 5714716668111823371}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5840101360604776992
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite) (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &343199511042335858 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 5840101360604776992}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7158767515938868649
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &3933456932030899195 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 7158767515938868649}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9029288267246445460
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973315665792822691}
+    m_Modifications:
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -135
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isIce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: IceOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: isTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: onCritEffect
+      value: 
+      objectReference: {fileID: 708053022752882298}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnCrit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268052, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: triggerOnKill
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268055, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6183300579253268057, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_Name
+      value: OnCrit Bullet (Frostbite) (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8331817357464602471, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+--- !u!4 &2918621503434526150 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6183300579253268050, guid: 0001808221245bb4aaf8be489b969933, type: 3}
+  m_PrefabInstance: {fileID: 9029288267246445460}
+  m_PrefabAsset: {fileID: 0}

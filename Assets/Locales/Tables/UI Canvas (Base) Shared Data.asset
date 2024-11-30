@@ -1,0 +1,560 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Canvas (Base) Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Canvas (Base)
+  m_TableCollectionNameGuidString: ae2fccbc98b9e624ba4a1e1c95b57d02
+  m_Entries:
+  - m_Id: 69872828416
+    m_Key: Main Base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727739845754880
+    m_Key: Parts+
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728005676548096
+    m_Key: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728009262678016
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728012429377536
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742028346310656
+    m_Key: Bungee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 751608665128960
+    m_Key: Digby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 752637003612160
+    m_Key: Merchant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753123861643264
+    m_Key: Traits / Skins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 760817448304640
+    m_Key: Gun Station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 761150685757440
+    m_Key: Traits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 761224409038848
+    m_Key: Skins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 764340634304512
+    m_Key: Ultimate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765940694171648
+    m_Key: Bungee Ult Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766833963483136
+    m_Key: Mole Ult Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 767633804673024
+    m_Key: Merchant Ult Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456071117815808
+    m_Key: Bunny Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1456693472837632
+    m_Key: ' Mole Skill'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1458246120292352
+    m_Key: Merchant Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1471462401556480
+    m_Key: Bunny Upgrade 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1473132091064320
+    m_Key: Bunny Upgrade 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1473654193831936
+    m_Key: Bunny Upgrade 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1473846867574784
+    m_Key: Bunny Upgrade 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1474723636494336
+    m_Key: Bunny Upgrade 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479037817896960
+    m_Key: Bunny Upgrade 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2200009306980352
+    m_Key: Mole Upgrade 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2200816119103488
+    m_Key: Mole Upgrade 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2201365837168640
+    m_Key: Mole Upgrade 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2201525153611776
+    m_Key: Mole Upgrade 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2202186742153216
+    m_Key: Mole Upgrade 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2202423837769728
+    m_Key: Mole Upgrade 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505568203751424
+    m_Key: Raccoon Upgrade 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505995192287232
+    m_Key: Raccoon Upgrade 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2516670052483072
+    m_Key: Raccoon Upgrade 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2517195770740736
+    m_Key: Raccoon Upgrade 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520158983602176
+    m_Key: Raccoon Upgrade 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520243805011968
+    m_Key: Raccoon Upgrade 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2532347651997696
+    m_Key: Bunny Skin 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2532500173668352
+    m_Key: Mole Skin 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2532749181108224
+    m_Key: Raccoon Skin 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533061371543552
+    m_Key: Craft Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2571835086389248
+    m_Key: Skin Cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2577359555182592
+    m_Key: Skin Locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2577685423243264
+    m_Key: Skin Activated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579013457330176
+    m_Key: Unlock Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2584806470631424
+    m_Key: Locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969198359658496
+    m_Key: Gem Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969543324385280
+    m_Key: Select Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969706394730496
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2969860199858176
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970292859092992
+    m_Key: Collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970623558991872
+    m_Key: Leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2970882901196800
+    m_Key: Press A to Switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3555354839269376
+    m_Key: Random Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3560640857686016
+    m_Key: Vile Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3560876615319552
+    m_Key: Vile Line 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3565723091648512
+    m_Key: Mouse Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3652441920684032
+    m_Key: Not enough parts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3652958344364032
+    m_Key: Not enough gems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3655927622189056
+    m_Key: No Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656081825775616
+    m_Key: Common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3661804769034240
+    m_Key: Rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3661914672381952
+    m_Key: Unique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3662117764775936
+    m_Key: Legend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3662224790831104
+    m_Key: Gun Gacha Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3663005531160576
+    m_Key: Buy Random Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3663427801104384
+    m_Key: Ad for Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3663866856652800
+    m_Key: Ad Limit Reached
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3976634444988416
+    m_Key: Lion Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3977377637908480
+    m_Key: Lion Line 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3980359037272064
+    m_Key: Captain Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3981285298978816
+    m_Key: Captain Line 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3982690034302976
+    m_Key: Under Construction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3982834473549824
+    m_Key: Uncle Coon Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3983858504482816
+    m_Key: Uncle Coon Line 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984275812564992
+    m_Key: Uncle Coon Line 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3985532304408576
+    m_Key: Uncle Coon Line 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3986428589424640
+    m_Key: Uncle Coon Line 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3986999706828800
+    m_Key: Uncle Coon Line 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3987828597768192
+    m_Key: One-Time Buffs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3988223340494848
+    m_Key: Raccooneers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3988698597081088
+    m_Key: Parts Buff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3989255810367488
+    m_Key: Exp Buff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3990110785683456
+    m_Key: Buy Buff Msg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3993600719241216
+    m_Key: Need Gems?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4042445201260544
+    m_Key: Merchant Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4050981352292352
+    m_Key: Merchant Line 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4053046451421184
+    m_Key: Merchant Line 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4055474286542848
+    m_Key: Chip Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4056421624627200
+    m_Key: Chip Line 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4056870268354560
+    m_Key: 'Chip Line 3 '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4058123501223936
+    m_Key: Meow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4058221719240704
+    m_Key: Mole Line 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4058626440216576
+    m_Key: Mole Line 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4059240045920256
+    m_Key: Mole Line 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4060085181399040
+    m_Key: Mole Line 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4060956992651264
+    m_Key: Mole Line 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4167910092095488
+    m_Key: Buy Gems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4168436376584192
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5075960038604800
+    m_Key: Transaction Failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5075966321672192
+    m_Key: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8568207547744256
+    m_Key: Uncle Coon Alternate (no gems)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14069215937871872
+    m_Key: Shop Parts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15169995310809088
+    m_Key: Time to run?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28686367353389056
+    m_Key: Premium Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28698778823213056
+    m_Key: Premium Gacha Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30861293845921792
+    m_Key: Saved Local Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31958503153123328
+    m_Key: SKIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33379579254980608
+    m_Key: Save Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33379902187028480
+    m_Key: Save Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33380030503370752
+    m_Key: Load Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33380345277497344
+    m_Key: Load Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35022316962234368
+    m_Key: Request Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40615060938080256
+    m_Key: Skill Available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41725068887113728
+    m_Key: Autosaving Cloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43438426237616128
+    m_Key: Ad Vendor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48957027677814784
+    m_Key: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48988245546942464
+    m_Key: Type 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48988514053701632
+    m_Key: Type 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49264638616846336
+    m_Key: Press to Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49264919060594688
+    m_Key: Drag to Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49267456580960256
+    m_Key: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49958811691040768
+    m_Key: New Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52164943130050560
+    m_Key: Touch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52164955956232192
+    m_Key: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53612947036880896
+    m_Key: Dynamic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53613595618885632
+    m_Key: Fixed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56107861347844096
+    m_Key: Rune Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60390748461121536
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60391086236811264
+    m_Key: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60555861054898176
+    m_Key: Unique Drop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60556874759454720
+    m_Key: Legend Drop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60838430250024960
+    m_Key: Rune Altar
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6671521165889503256
+  references:
+    version: 2
+    RefIds:
+    - rid: 6671521165889503256
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1717765388768

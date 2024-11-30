@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 08319ac5da344ad42a8c0ccdf62532f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5813434881805810405
+    second: Depths Objects_0
+  - first:
+      213: -2284135664082372605
+    second: Depths Objects_1
+  - first:
+      213: 8172566059894622984
+    second: Depths Objects_2
+  - first:
+      213: 1611729212524870619
+    second: Depths Objects_3
+  - first:
+      213: 6470532470887250221
+    second: Depths Objects_4
+  - first:
+      213: -1049409049752123914
+    second: Depths Objects_5
+  - first:
+      213: 400332526233128839
+    second: Depths Objects_6
+  - first:
+      213: 4939426857397906241
+    second: Depths Objects_7
+  - first:
+      213: 1172739255910099909
+    second: Depths Objects_8
+  - first:
+      213: -8258026457416515873
+    second: Depths Objects_9
+  - first:
+      213: 8456992977509708021
+    second: Depths Objects_10
+  - first:
+      213: 8092992416794253923
+    second: Depths Objects_11
+  - first:
+      213: -714587422888652518
+    second: Depths Objects_12
+  - first:
+      213: -8940378102651229501
+    second: Depths Objects_13
+  - first:
+      213: -2417577248830270034
+    second: Depths Objects_14
+  - first:
+      213: -1292794235769397290
+    second: Depths Objects_15
+  - first:
+      213: 1272545961242339811
+    second: Depths Objects_16
+  - first:
+      213: -4033106792121369160
+    second: Depths Objects_17
+  - first:
+      213: -3895927824982159536
+    second: Depths Objects_18
+  - first:
+      213: 2131886977771914492
+    second: Depths Objects_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Depths Objects_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea76ee59387da050800000000000000
+      internalID: 5813434881805810405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 279
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b19327be1d40e0800000000000000
+      internalID: -2284135664082372605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bce670889ca6170800000000000000
+      internalID: 8172566059894622984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 274
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb3aa2fd230e5610800000000000000
+      internalID: 1611729212524870619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 207
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d297ddafff2fbc950800000000000000
+      internalID: 6470532470887250221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 219
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c17d7700cf61f0800000000000000
+      internalID: -1049409049752123914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 125
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f0922cf444e8500800000000000000
+      internalID: 400332526233128839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 125
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be93d7e8e5c8440800000000000000
+      internalID: 4939426857397906241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 125
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6daac328664010800000000000000
+      internalID: 1172739255910099909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 125
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde39eb90b8956d80800000000000000
+      internalID: -8258026457416515873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 125
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f070745e464d5570800000000000000
+      internalID: 8456992977509708021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 167
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1192c166864516f0800000000000000
+      internalID: -714587422888652518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caeac9db756de380800000000000000
+      internalID: -8940378102651229501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d7621d4a037ed0800000000000000
+      internalID: -2417577248830270034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 167
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfda49fd721f0ee0800000000000000
+      internalID: -1292794235769397290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9253c3fcdf8a110800000000000000
+      internalID: 1272545961242339811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 26
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf36aadb68708c0800000000000000
+      internalID: -4033106792121369160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 125
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc061e842eee9c0800000000000000
+      internalID: -3895927824982159536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Depths Objects_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 125
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4406b39ebf59d10800000000000000
+      internalID: 2131886977771914492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Depths Objects_0: 5813434881805810405
+      Depths Objects_1: -2284135664082372605
+      Depths Objects_10: 8456992977509708021
+      Depths Objects_12: -714587422888652518
+      Depths Objects_13: -8940378102651229501
+      Depths Objects_14: -2417577248830270034
+      Depths Objects_15: -1292794235769397290
+      Depths Objects_16: 1272545961242339811
+      Depths Objects_17: -4033106792121369160
+      Depths Objects_18: -3895927824982159536
+      Depths Objects_19: 2131886977771914492
+      Depths Objects_2: 8172566059894622984
+      Depths Objects_3: 1611729212524870619
+      Depths Objects_4: 6470532470887250221
+      Depths Objects_5: -1049409049752123914
+      Depths Objects_6: 400332526233128839
+      Depths Objects_7: 4939426857397906241
+      Depths Objects_8: 1172739255910099909
+      Depths Objects_9: -8258026457416515873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 01cfd2bfd62f5c44cad958c43e6a8ede
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3745519142405732055
+    second: CaveEnemiesMovement_0
+  - first:
+      213: 10623855071452712
+    second: CaveEnemiesMovement_1
+  - first:
+      213: -1053114417441195797
+    second: CaveEnemiesMovement_2
+  - first:
+      213: 4229752644786624988
+    second: CaveEnemiesMovement_3
+  - first:
+      213: 2888739199448090245
+    second: CaveEnemiesMovement_4
+  - first:
+      213: -3065877107405588927
+    second: CaveEnemiesMovement_5
+  - first:
+      213: 6115426805124571139
+    second: CaveEnemiesMovement_6
+  - first:
+      213: -2616966474431751095
+    second: CaveEnemiesMovement_7
+  - first:
+      213: -5545909067790700849
+    second: CaveEnemiesMovement_8
+  - first:
+      213: -2929818007799564287
+    second: CaveEnemiesMovement_9
+  - first:
+      213: -5695870194788864392
+    second: CaveEnemiesMovement_10
+  - first:
+      213: 5942329848085132335
+    second: CaveEnemiesMovement_11
+  - first:
+      213: 2466436286253606809
+    second: CaveEnemiesMovement_12
+  - first:
+      213: -5694994940529181743
+    second: CaveEnemiesMovement_13
+  - first:
+      213: 4644991832986087062
+    second: CaveEnemiesMovement_14
+  - first:
+      213: -7052783438953186933
+    second: CaveEnemiesMovement_15
+  - first:
+      213: 5905683757457280006
+    second: CaveEnemiesMovement_16
+  - first:
+      213: 1681136826479707155
+    second: CaveEnemiesMovement_17
+  - first:
+      213: -3852042860040340422
+    second: CaveEnemiesMovement_18
+  - first:
+      213: 7367956428383392482
+    second: CaveEnemiesMovement_19
+  - first:
+      213: -7123195585429680268
+    second: CaveEnemiesMovement_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 190
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6f48eb0d1caf330800000000000000
+      internalID: 3745519142405732055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 190
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82edda3075eb52000800000000000000
+      internalID: 10623855071452712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 159
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8339854069261f0800000000000000
+      internalID: -1053114417441195797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 166
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99648ce9913ba30800000000000000
+      internalID: 4229752644786624988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 166
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58689d72ffcd61820800000000000000
+      internalID: 2888739199448090245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 168
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1467618b301d375d0800000000000000
+      internalID: -3065877107405588927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 176
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002a51474c5ed450800000000000000
+      internalID: 6115426805124571139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 190
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c93665bdaaeabd0800000000000000
+      internalID: -2616966474431751095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 107
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea7b91619f803b0800000000000000
+      internalID: -5545909067790700849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 107
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10870947b023757d0800000000000000
+      internalID: -2929818007799564287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eefd06c3434f0b0800000000000000
+      internalID: -5695870194788864392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 114
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b0555385677250800000000000000
+      internalID: 5942329848085132335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 117
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a74f0cba8a3220800000000000000
+      internalID: 2466436286253606809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 118
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7c14664057f0b0800000000000000
+      internalID: -5694994940529181743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee9bd3673567040800000000000000
+      internalID: 4644991832986087062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 67
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ff6b54da7f1e90800000000000000
+      internalID: -7052783438953186933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 66
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0907761435f150800000000000000
+      internalID: 5905683757457280006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31486216909945710800000000000000
+      internalID: 1681136826479707155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c37b38d6bca8ac0800000000000000
+      internalID: -3852042860040340422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 83
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21952a55d304660800000000000000
+      internalID: 7367956428383392482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 82
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f45d8fa53552d90800000000000000
+      internalID: -7123195585429680268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveEnemiesMovement_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 130
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc266a7ef4f63849a10e1d828245446
+      internalID: 1390075479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CaveEnemiesMovement_0: 3745519142405732055
+      CaveEnemiesMovement_1: 10623855071452712
+      CaveEnemiesMovement_10: -5695870194788864392
+      CaveEnemiesMovement_11: 5942329848085132335
+      CaveEnemiesMovement_12: 2466436286253606809
+      CaveEnemiesMovement_13: -5694994940529181743
+      CaveEnemiesMovement_14: 4644991832986087062
+      CaveEnemiesMovement_15: -7052783438953186933
+      CaveEnemiesMovement_16: 5905683757457280006
+      CaveEnemiesMovement_17: 1681136826479707155
+      CaveEnemiesMovement_18: -3852042860040340422
+      CaveEnemiesMovement_19: 7367956428383392482
+      CaveEnemiesMovement_2: -1053114417441195797
+      CaveEnemiesMovement_20: -7123195585429680268
+      CaveEnemiesMovement_21: 1390075479
+      CaveEnemiesMovement_3: 4229752644786624988
+      CaveEnemiesMovement_4: 2888739199448090245
+      CaveEnemiesMovement_5: -3065877107405588927
+      CaveEnemiesMovement_6: 6115426805124571139
+      CaveEnemiesMovement_7: -2616966474431751095
+      CaveEnemiesMovement_8: -5545909067790700849
+      CaveEnemiesMovement_9: -2929818007799564287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

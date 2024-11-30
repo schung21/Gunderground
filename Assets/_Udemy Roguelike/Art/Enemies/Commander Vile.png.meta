@@ -1,0 +1,990 @@
+fileFormatVersion: 2
+guid: 99a29301abce35b479c02971138fd657
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9077522562480117885
+    second: Commander Vile_0
+  - first:
+      213: 4093892339318245985
+    second: Commander Vile_1
+  - first:
+      213: -8185601472299610433
+    second: Commander Vile_2
+  - first:
+      213: -8742039468022595310
+    second: Commander Vile_3
+  - first:
+      213: -4912991306531429052
+    second: Commander Vile_4
+  - first:
+      213: 5281149501558680853
+    second: Commander Vile_5
+  - first:
+      213: 3915170962729590580
+    second: Commander Vile_6
+  - first:
+      213: -1650692466255380798
+    second: Commander Vile_7
+  - first:
+      213: -1344155446633435023
+    second: Commander Vile_8
+  - first:
+      213: 8225033625787326028
+    second: Commander Vile_9
+  - first:
+      213: 5953468118670255547
+    second: Commander Vile_10
+  - first:
+      213: -132984711148893914
+    second: Commander Vile_11
+  - first:
+      213: 224354197524773634
+    second: Commander Vile_12
+  - first:
+      213: 8484810455123419300
+    second: Commander Vile_13
+  - first:
+      213: 8528219324839282185
+    second: Commander Vile_14
+  - first:
+      213: -4314710735812393452
+    second: Commander Vile_15
+  - first:
+      213: -3411862545697131793
+    second: Commander Vile_16
+  - first:
+      213: 8285115025839881878
+    second: Commander Vile_17
+  - first:
+      213: -7756265869960003364
+    second: Commander Vile_18
+  - first:
+      213: 7980433282843336902
+    second: Commander Vile_19
+  - first:
+      213: -8255023867975737445
+    second: Commander Vile_20
+  - first:
+      213: 2400086582751377853
+    second: Commander Vile_21
+  - first:
+      213: -6340091841314730212
+    second: Commander Vile_22
+  - first:
+      213: -4920461328202483691
+    second: Commander Vile_23
+  - first:
+      213: -5567572489221596894
+    second: Commander Vile_24
+  - first:
+      213: 1553210915737076831
+    second: Commander Vile_25
+  - first:
+      213: -3850012907274511064
+    second: Commander Vile_26
+  - first:
+      213: -1262346861580882061
+    second: Commander Vile_27
+  - first:
+      213: 5762410376751418539
+    second: Commander Vile_28
+  - first:
+      213: -1794557106041188192
+    second: Commander Vile_29
+  - first:
+      213: -293022310229663206
+    second: Commander Vile_30
+  - first:
+      213: 424826222564026591
+    second: Commander Vile_31
+  - first:
+      213: -7467362352619999535
+    second: Commander Vile_32
+  - first:
+      213: -6846572655148017087
+    second: Commander Vile_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Commander Vile_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 347
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7898310da6d9fd70800000000000000
+      internalID: 9077522562480117885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 346
+        width: 74
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.49121547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac1c9646d60d830800000000000000
+      internalID: 4093892339318245985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 233
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbecaa284d6e66e80800000000000000
+      internalID: -8185601472299610433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 233
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2118110db690ea680800000000000000
+      internalID: -8742039468022595310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 124
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ac95df6c81dbb0800000000000000
+      internalID: -4912991306531429052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 125
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51de22ead796a4940800000000000000
+      internalID: 5281149501558680853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fdb644f3b755630800000000000000
+      internalID: 3915170962729590580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 17
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce3f6b92ff8719e0800000000000000
+      internalID: -1650692466255380798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 347
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f1803eb9985de0800000000000000
+      internalID: -1344155446633435023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 234
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e52ba2180352270800000000000000
+      internalID: 8225033625787326028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 234
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb524fa06b7fe9250800000000000000
+      internalID: 5953468118670255547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 125
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629896b1c1b872ef0800000000000000
+      internalID: -132984711148893914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 126
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf45734f01d1300800000000000000
+      internalID: 224354197524773634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0e62c872a10c570800000000000000
+      internalID: 8484810455123419300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906caaf9a425a5670800000000000000
+      internalID: 8528219324839282185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 318
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416865332711f14c0800000000000000
+      internalID: -4314710735812393452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_16
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 320
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2334d6711a6a0d0800000000000000
+      internalID: -3411862545697131793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 196
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eff663834aaf270800000000000000
+      internalID: 8285115025839881878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 192
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd04c8529453c5490800000000000000
+      internalID: -7756265869960003364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 56
+        width: 102
+        height: 28
+      alignment: 9
+      pivot: {x: 0.35858303, y: 0.19298498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e491e9c130ce60800000000000000
+      internalID: 7980433282843336902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 12
+        width: 94
+        height: 26
+      alignment: 9
+      pivot: {x: 0.30159712, y: 0.25342676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f5fe07783407d80800000000000000
+      internalID: -8255023867975737445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 43
+        width: 86
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2916118, y: 0.3057299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b313e702de4120800000000000000
+      internalID: 2400086582751377853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 235
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f4513cf087308a0800000000000000
+      internalID: -6340091841314730212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 83
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b171ed7207bbb0800000000000000
+      internalID: -4920461328202483691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 446
+        width: 13
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22995beb1520cb2b0800000000000000
+      internalID: -5567572489221596894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 432
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5484cd391d1e8510800000000000000
+      internalID: 1553210915737076831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 422
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ddb39b8a1029ac0800000000000000
+      internalID: -3850012907274511064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 412
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6424b73e3b7ee0800000000000000
+      internalID: -1262346861580882061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 398
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac0b4405b138ff40800000000000000
+      internalID: 5762410376751418539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 385
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0134de1d37817e0800000000000000
+      internalID: -1794557106041188192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_30
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 374
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122f77e2c9feebf0800000000000000
+      internalID: -293022310229663206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 118
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82337d23945e500800000000000000
+      internalID: 424826222564026591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_32
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 430
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea5fa01899e5890800000000000000
+      internalID: -7467362352619999535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Commander Vile_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 430
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14adff0e1761cf0a0800000000000000
+      internalID: -6846572655148017087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Commander Vile_0: 9077522562480117885
+      Commander Vile_1: 4093892339318245985
+      Commander Vile_10: 5953468118670255547
+      Commander Vile_11: -132984711148893914
+      Commander Vile_12: 224354197524773634
+      Commander Vile_13: 8484810455123419300
+      Commander Vile_14: 8528219324839282185
+      Commander Vile_15: -4314710735812393452
+      Commander Vile_16: -3411862545697131793
+      Commander Vile_17: 8285115025839881878
+      Commander Vile_18: -7756265869960003364
+      Commander Vile_19: 7980433282843336902
+      Commander Vile_2: -8185601472299610433
+      Commander Vile_20: -8255023867975737445
+      Commander Vile_21: 2400086582751377853
+      Commander Vile_22: -6340091841314730212
+      Commander Vile_23: -4920461328202483691
+      Commander Vile_24: -5567572489221596894
+      Commander Vile_25: 1553210915737076831
+      Commander Vile_26: -3850012907274511064
+      Commander Vile_27: -1262346861580882061
+      Commander Vile_28: 5762410376751418539
+      Commander Vile_29: -1794557106041188192
+      Commander Vile_3: -8742039468022595310
+      Commander Vile_30: -293022310229663206
+      Commander Vile_31: 424826222564026591
+      Commander Vile_32: -7467362352619999535
+      Commander Vile_33: -6846572655148017087
+      Commander Vile_4: -4912991306531429052
+      Commander Vile_5: 5281149501558680853
+      Commander Vile_6: 3915170962729590580
+      Commander Vile_7: -1650692466255380798
+      Commander Vile_8: -1344155446633435023
+      Commander Vile_9: 8225033625787326028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

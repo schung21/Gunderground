@@ -1,0 +1,865 @@
+fileFormatVersion: 2
+guid: b442bea977813e84f960297ec48d2842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6988494416489142153
+    second: RuinsEnemiesMovement_0
+  - first:
+      213: -1140502035263142800
+    second: RuinsEnemiesMovement_1
+  - first:
+      213: -5731574073036445833
+    second: RuinsEnemiesMovement_2
+  - first:
+      213: 8249944913893717480
+    second: RuinsEnemiesMovement_3
+  - first:
+      213: -5377392287788854341
+    second: RuinsEnemiesMovement_4
+  - first:
+      213: -7564423019334371206
+    second: RuinsEnemiesMovement_5
+  - first:
+      213: 7769868127512939919
+    second: RuinsEnemiesMovement_6
+  - first:
+      213: -8765923235925420716
+    second: RuinsEnemiesMovement_7
+  - first:
+      213: 5188436240511556414
+    second: RuinsEnemiesMovement_8
+  - first:
+      213: 8149806807562437516
+    second: RuinsEnemiesMovement_9
+  - first:
+      213: 5706739591110249397
+    second: RuinsEnemiesMovement_10
+  - first:
+      213: 3114447273009526419
+    second: RuinsEnemiesMovement_11
+  - first:
+      213: 1093497591103361303
+    second: RuinsEnemiesMovement_12
+  - first:
+      213: -414591243026753483
+    second: RuinsEnemiesMovement_13
+  - first:
+      213: -6488432519288453525
+    second: RuinsEnemiesMovement_14
+  - first:
+      213: 1272920532805634571
+    second: RuinsEnemiesMovement_15
+  - first:
+      213: -2828105755978397786
+    second: RuinsEnemiesMovement_16
+  - first:
+      213: 6974643406477993059
+    second: RuinsEnemiesMovement_17
+  - first:
+      213: -661727634951784514
+    second: RuinsEnemiesMovement_18
+  - first:
+      213: -4652077630895556167
+    second: RuinsEnemiesMovement_19
+  - first:
+      213: 4431963729497022716
+    second: RuinsEnemiesMovement_20
+  - first:
+      213: -8681159877727012356
+    second: RuinsEnemiesMovement_21
+  - first:
+      213: 3461378217324787335
+    second: RuinsEnemiesMovement_22
+  - first:
+      213: 3178158878575566559
+    second: RuinsEnemiesMovement_23
+  - first:
+      213: 7688006477035960839
+    second: RuinsEnemiesMovement_24
+  - first:
+      213: -5680178855027323914
+    second: RuinsEnemiesMovement_25
+  - first:
+      213: 7914949075171325674
+    second: RuinsEnemiesMovement_26
+  - first:
+      213: 5722755967575125945
+    second: RuinsEnemiesMovement_27
+  - first:
+      213: 836577681175943913
+    second: RuinsEnemiesMovement_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 142
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987d2a925ae1cf060800000000000000
+      internalID: 6988494416489142153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 142
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c78a017f1c20f0800000000000000
+      internalID: -1140502035263142800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 142
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e2dc6fbb5570b0800000000000000
+      internalID: -5731574073036445833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 46
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5474858, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5fc296031bd7270800000000000000
+      internalID: 8249944913893717480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 46
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.543015, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39b64743aaf55b0800000000000000
+      internalID: -5377392287788854341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 46
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7879c98755c50790800000000000000
+      internalID: -7564423019334371206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 131
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.560442, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dc90c35ed14db60800000000000000
+      internalID: 7769868127512939919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 94
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559252c24f295680800000000000000
+      internalID: -8765923235925420716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b547f6547010840800000000000000
+      internalID: 5188436240511556414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 187
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c1d8ac1ee91170800000000000000
+      internalID: 8149806807562437516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbc8c92c69623f40800000000000000
+      internalID: 5706739591110249397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 88
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5132375, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ba633b4db83b20800000000000000
+      internalID: 3114447273009526419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 87
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5132375, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111678f342ec2f00800000000000000
+      internalID: 1093497591103361303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 86
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5132375, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538176806731f3af0800000000000000
+      internalID: -414591243026753483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 189
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6608ba300574f5a0800000000000000
+      internalID: -6488432519288453525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 189
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a4e29fa725aa110800000000000000
+      internalID: 1272920532805634571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 189
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a78ba38ccc80c8d0800000000000000
+      internalID: -2828105755978397786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 25
+        height: 22
+      alignment: 9
+      pivot: {x: 0.48603028, y: 0.4999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36424269939eac060800000000000000
+      internalID: 6974643406477993059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 161
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b3a4d83211d6f0800000000000000
+      internalID: -661727634951784514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 131
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.560442, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9fdeeda00807fb0800000000000000
+      internalID: -4652077630895556167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5474858, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e51ac78f718d30800000000000000
+      internalID: 4431963729497022716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 14
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.543015, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf935b10613568780800000000000000
+      internalID: -8681159877727012356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 14
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.67, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7863be44629490030800000000000000
+      internalID: 3461378217324787335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 46
+        width: 35
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4735431, y: 0.47328874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde104559a61b1c20800000000000000
+      internalID: 3178158878575566559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 36
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48713896, y: 0.5597415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a71a6782941ba60800000000000000
+      internalID: 7688006477035960839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 182
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.53486913, y: 0.556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb496d1d63fb21b0800000000000000
+      internalID: -5680178855027323914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.48195022, y: 0.49999964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b4e8af3c87dd60800000000000000
+      internalID: 7914949075171325674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfef876b305b6f40800000000000000
+      internalID: 5722755967575125945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuinsEnemiesMovement_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea1389f7fe1c9b00800000000000000
+      internalID: 836577681175943913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RuinsEnemiesMovement_0: 6988494416489142153
+      RuinsEnemiesMovement_1: -1140502035263142800
+      RuinsEnemiesMovement_10: 5706739591110249397
+      RuinsEnemiesMovement_11: 3114447273009526419
+      RuinsEnemiesMovement_12: 1093497591103361303
+      RuinsEnemiesMovement_13: -414591243026753483
+      RuinsEnemiesMovement_14: -6488432519288453525
+      RuinsEnemiesMovement_15: 1272920532805634571
+      RuinsEnemiesMovement_16: -2828105755978397786
+      RuinsEnemiesMovement_17: 6974643406477993059
+      RuinsEnemiesMovement_18: -661727634951784514
+      RuinsEnemiesMovement_19: -4652077630895556167
+      RuinsEnemiesMovement_2: -5731574073036445833
+      RuinsEnemiesMovement_20: 4431963729497022716
+      RuinsEnemiesMovement_21: -8681159877727012356
+      RuinsEnemiesMovement_22: 3461378217324787335
+      RuinsEnemiesMovement_23: 3178158878575566559
+      RuinsEnemiesMovement_24: 7688006477035960839
+      RuinsEnemiesMovement_25: -5680178855027323914
+      RuinsEnemiesMovement_26: 7914949075171325674
+      RuinsEnemiesMovement_27: 5722755967575125945
+      RuinsEnemiesMovement_28: 836577681175943913
+      RuinsEnemiesMovement_3: 8249944913893717480
+      RuinsEnemiesMovement_4: -5377392287788854341
+      RuinsEnemiesMovement_5: -7564423019334371206
+      RuinsEnemiesMovement_6: 7769868127512939919
+      RuinsEnemiesMovement_7: -8765923235925420716
+      RuinsEnemiesMovement_8: 5188436240511556414
+      RuinsEnemiesMovement_9: 8149806807562437516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

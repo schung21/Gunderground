@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene-Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1e9a5296db764974dba53cfb182163ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15946661888
+    m_Localized: 5 years since the invasion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195830233350144
+    m_Localized: The Primate Axis has overpowered the inferior species.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206978953428992
+    m_Localized: Kingdoms have perished.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207202480472064
+    m_Localized: Survivors had nowhere to go but down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207475949092864
+    m_Localized: Those who surrendered live as slaves on the surface.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208844479184896
+    m_Localized: Those who still fight live as rebels underground.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209399133945856
+    m_Localized: In search for hope,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210069165621248
+    m_Localized: the rebels make a discovery after years of tunneling.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210554899578880
+    m_Localized: Signs of ancient life in the depths,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211325598744576
+    m_Localized: proving the existence of the Antlered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211879511113728
+    m_Localized: Mythical architects with supernatural traits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212197166727168
+    m_Localized: The ones who forged the Mithril Gateway -
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212882956402688
+    m_Localized: "A door that leads to a secluded haven \nunknown to the outside
+      world."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216538825015296
+    m_Localized: The final hope.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588888191975424
+    m_Localized: Over here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 589104974577664
+    m_Localized: So you're the agent from the Cottontail faction.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 592426666213376
+    m_Localized: I'm Captain Cliff.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598886078922752
+    m_Localized: This is Colonel Lionel from the Feral Commando.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694536686714880
+    m_Localized: And Commander Vile from the Red Corps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748578393735168
+    m_Localized: Greetings, agent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748956946448384
+    m_Localized: Don't let us down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 749338133184512
+    m_Localized: We don't have much time so I'll be quick.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 749667323133952
+    m_Localized: Use the locker to check your stats and unlock new skills.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 762053987844096
+    m_Localized: Use the weapon station to craft guns and grenades.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763464062517248
+    m_Localized: Now let's get you warmed up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1033208569184256
+    m_Localized: Alright, let's learn the basics.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1033429877440512
+    m_Localized: Move around with the left stick.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1034309309743104
+    m_Localized: Aim with the right stick and press to fire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1034909900521472
+    m_Localized: Dodge attacks with the dash button.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036364871024640
+    m_Localized: Throw grenades with the grenade button.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036584853880832
+    m_Localized: Switch weapons with the switch button.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1044753739071488
+    m_Localized: Switch to your default weapon when you're out of ammo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1055552561922048
+    m_Localized: Now, time for combat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1056822832054272
+    m_Localized: When you're ready, destroy the targets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1056979984236544
+    m_Localized: "This is your ultimate skill. \nUse it when you must."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057521531797504
+    m_Localized: Now destroy them while dodging their attacks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057674103799808
+    m_Localized: Try using your ultimate!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1057783910678528
+    m_Localized: That's enough, agent. Well done.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1452524888309760
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1473721982173184
+    m_Localized: Tap to Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3852149653946368
+    m_Localized: Update Available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860423145078784
+    m_Localized: Go to Store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27130714424000512
+    m_Localized: "Local data will be overwritten by cloud data. \nDo you want to
+      continue?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27141058643017728
+    m_Localized: Not logged in to Play Games.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28883632915398656
+    m_Localized: 'Vile has deceived us..
+
+      You must stop him..'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44833631897567232
+    m_Localized: "Temporary save found. Continue where you left off? \n(Warning:
+      Progress will not be saved for this session.)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45957529343016960
+    m_Localized: Throw Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45957702739738624
+    m_Localized: Dash Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45958030348435456
+    m_Localized: Move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45958322553012224
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45958584801869824
+    m_Localized: Aim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45958700174589952
+    m_Localized: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45958876939337728
+    m_Localized: Switch to Basic Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45959134238916608
+    m_Localized: Switch to Next Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45959639535108096
+    m_Localized: Ultimate Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45959790077067264
+    m_Localized: Interact / Pick Up
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

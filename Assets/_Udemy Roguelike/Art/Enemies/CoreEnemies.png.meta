@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 169f6e6065d95144fbe83344616d969d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7719560001294720160
+    second: CoreEnemies_0
+  - first:
+      213: -6770545806328241724
+    second: CoreEnemies_1
+  - first:
+      213: -245340118801486892
+    second: CoreEnemies_2
+  - first:
+      213: 2133427547902205225
+    second: CoreEnemies_3
+  - first:
+      213: 4078949134325313404
+    second: CoreEnemies_4
+  - first:
+      213: 8960069284230227511
+    second: CoreEnemies_5
+  - first:
+      213: 2733345074658509516
+    second: CoreEnemies_6
+  - first:
+      213: -4471831441212324289
+    second: CoreEnemies_7
+  - first:
+      213: -6813102947455962317
+    second: CoreEnemies_8
+  - first:
+      213: -4736903103896785251
+    second: CoreEnemies_9
+  - first:
+      213: 7160733410965464811
+    second: CoreEnemies_10
+  - first:
+      213: -3382162501666141297
+    second: CoreEnemies_11
+  - first:
+      213: 2239273269444309724
+    second: CoreEnemies_12
+  - first:
+      213: -8955470415537002381
+    second: CoreEnemies_13
+  - first:
+      213: 3272944938974076653
+    second: CoreEnemies_14
+  - first:
+      213: 8208802538778817522
+    second: CoreEnemies_15
+  - first:
+      213: -7067809333998320799
+    second: CoreEnemies_16
+  - first:
+      213: 1952651757817173794
+    second: CoreEnemies_17
+  - first:
+      213: 367331524086728225
+    second: CoreEnemies_18
+  - first:
+      213: -5965128804811193762
+    second: CoreEnemies_19
+  - first:
+      213: 4958840817317050558
+    second: CoreEnemies_20
+  - first:
+      213: -4498415246929740243
+    second: CoreEnemies_21
+  - first:
+      213: -3430249691073220014
+    second: CoreEnemies_22
+  - first:
+      213: -6013304268494870119
+    second: CoreEnemies_23
+  - first:
+      213: 4755355209739065099
+    second: CoreEnemies_24
+  - first:
+      213: -504182489142432012
+    second: CoreEnemies_25
+  - first:
+      213: 1122950457286987999
+    second: CoreEnemies_26
+  - first:
+      213: 667031294789731673
+    second: CoreEnemies_27
+  - first:
+      213: 3806018697912879872
+    second: CoreEnemies_28
+  - first:
+      213: -7382199529972644918
+    second: CoreEnemies_29
+  - first:
+      213: 4411768866785871078
+    second: CoreEnemies_30
+  - first:
+      213: 3699751337105892930
+    second: CoreEnemies_31
+  - first:
+      213: -2136547876796492196
+    second: CoreEnemies_32
+  - first:
+      213: -8994941859937368562
+    second: CoreEnemies_33
+  - first:
+      213: -7202841852500736022
+    second: CoreEnemies_34
+  - first:
+      213: -3179105800034509793
+    second: CoreEnemies_35
+  - first:
+      213: 3665234970249523597
+    second: CoreEnemies_36
+  - first:
+      213: 411874033961202756
+    second: CoreEnemies_37
+  - first:
+      213: 391406962377651918
+    second: CoreEnemies_38
+  - first:
+      213: 6276141796483004882
+    second: CoreEnemies_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoreEnemies_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 193
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a38c241d9ed490800000000000000
+      internalID: -7719560001294720160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 152
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16b4606703a02a0800000000000000
+      internalID: -6770545806328241724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 152
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6fa93670689cf0800000000000000
+      internalID: -245340118801486892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 201
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5eba2d057b9d10800000000000000
+      internalID: 2133427547902205225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 201
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe85060a65b9830800000000000000
+      internalID: 4078949134325313404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 173
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366e61aa8f885c70800000000000000
+      internalID: 8960069284230227511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 173
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2859f0ddacee520800000000000000
+      internalID: 2733345074658509516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 7
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.477244, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36cd1b3ffcd0f1c0800000000000000
+      internalID: -4471831441212324289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 8
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4799059, y: 0.4999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33378b677fef271a0800000000000000
+      internalID: -6813102947455962317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e69c469b3234eb0800000000000000
+      internalID: -4736903103896785251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 61
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be62edb1919006360800000000000000
+      internalID: 7160733410965464811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 46
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b0b8bcf152011d0800000000000000
+      internalID: -3382162501666141297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27144ac2f731f10800000000000000
+      internalID: 2239273269444309724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 87
+        width: 38
+        height: 24
+      alignment: 9
+      pivot: {x: 0.64688915, y: 0.53578025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a56dea17c7b380800000000000000
+      internalID: -8955470415537002381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 205
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee56f8c416db6d20800000000000000
+      internalID: 3272944938974076653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 202
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f37c3bba668be170800000000000000
+      internalID: 8208802538778817522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 202
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16307da8bd81aed90800000000000000
+      internalID: -7067809333998320799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 174
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271cba9d66391b10800000000000000
+      internalID: 1952651757817173794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 174
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1260eff2316091500800000000000000
+      internalID: 367331524086728225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 107
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5247c5e4fa973da0800000000000000
+      internalID: -5965128804811193762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 53
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.558933, y: 0.25669175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8f3e5437751d440800000000000000
+      internalID: 4958840817317050558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 141
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e3d82aa2b6291c0800000000000000
+      internalID: -4498415246929740243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 51
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4250044, y: 0.3773397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252ffa8841e4560d0800000000000000
+      internalID: -3430249691073220014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 50
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.43000394, y: 0.3811728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e50ea0a37c8ca0800000000000000
+      internalID: -6013304268494870119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 147
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07dc494e5a6ef140800000000000000
+      internalID: 4755355209739065099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 61
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe61b882b8c009f0800000000000000
+      internalID: -504182489142432012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd014f2cd75859f00800000000000000
+      internalID: 1122950457286987999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955c204bd65c14900800000000000000
+      internalID: 667031294789731673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b879137d1b1d430800000000000000
+      internalID: 3806018697912879872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ccead3a82d8990800000000000000
+      internalID: -7382199529972644918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 236
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e446e7e860c93d30800000000000000
+      internalID: 4411768866785871078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 237
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.35, y: 0.63005936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246297d2d38285330800000000000000
+      internalID: 3699751337105892930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c561ee5a6057952e0800000000000000
+      internalID: -2136547876796492196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 238
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06442f190c8b2380800000000000000
+      internalID: -8994941859937368562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 238
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae780685f7d5a0c90800000000000000
+      internalID: -7202841852500736022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 238
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1f855e1c81e3d0800000000000000
+      internalID: -3179105800034509793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81ff0449c78dd230800000000000000
+      internalID: 3665234970249523597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444f67e604547b500800000000000000
+      internalID: 411874033961202756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6722bfe8e8e6500800000000000000
+      internalID: 391406962377651918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoreEnemies_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f95326b5591750800000000000000
+      internalID: 6276141796483004882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CoreEnemies_0: -7719560001294720160
+      CoreEnemies_1: -6770545806328241724
+      CoreEnemies_10: 7160733410965464811
+      CoreEnemies_11: -3382162501666141297
+      CoreEnemies_12: 2239273269444309724
+      CoreEnemies_13: -8955470415537002381
+      CoreEnemies_14: 3272944938974076653
+      CoreEnemies_15: 8208802538778817522
+      CoreEnemies_16: -7067809333998320799
+      CoreEnemies_17: 1952651757817173794
+      CoreEnemies_18: 367331524086728225
+      CoreEnemies_19: -5965128804811193762
+      CoreEnemies_2: -245340118801486892
+      CoreEnemies_20: 4958840817317050558
+      CoreEnemies_21: -4498415246929740243
+      CoreEnemies_22: -3430249691073220014
+      CoreEnemies_23: -6013304268494870119
+      CoreEnemies_24: 4755355209739065099
+      CoreEnemies_25: -504182489142432012
+      CoreEnemies_26: 1122950457286987999
+      CoreEnemies_27: 667031294789731673
+      CoreEnemies_28: 3806018697912879872
+      CoreEnemies_29: -7382199529972644918
+      CoreEnemies_3: 2133427547902205225
+      CoreEnemies_30: 4411768866785871078
+      CoreEnemies_31: 3699751337105892930
+      CoreEnemies_32: -2136547876796492196
+      CoreEnemies_33: -8994941859937368562
+      CoreEnemies_34: -7202841852500736022
+      CoreEnemies_35: -3179105800034509793
+      CoreEnemies_36: 3665234970249523597
+      CoreEnemies_37: 411874033961202756
+      CoreEnemies_38: 391406962377651918
+      CoreEnemies_39: 6276141796483004882
+      CoreEnemies_4: 4078949134325313404
+      CoreEnemies_5: 8960069284230227511
+      CoreEnemies_6: 2733345074658509516
+      CoreEnemies_7: -4471831441212324289
+      CoreEnemies_8: -6813102947455962317
+      CoreEnemies_9: -4736903103896785251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

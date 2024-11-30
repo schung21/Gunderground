@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: bbf6e092db12c4049b417421153bad15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2036465278666232987
+    second: Mini Boss - Hitman Bunny_0
+  - first:
+      213: 8155222694159889361
+    second: Mini Boss - Hitman Bunny_1
+  - first:
+      213: 5487349254834342323
+    second: Mini Boss - Hitman Bunny_2
+  - first:
+      213: 1258599832553900665
+    second: Mini Boss - Hitman Bunny_3
+  - first:
+      213: 8357907888621969787
+    second: Mini Boss - Hitman Bunny_4
+  - first:
+      213: -7263622026910944279
+    second: Mini Boss - Hitman Bunny_5
+  - first:
+      213: 3000909780084640645
+    second: Mini Boss - Hitman Bunny_6
+  - first:
+      213: -5258556486546444304
+    second: Mini Boss - Hitman Bunny_7
+  - first:
+      213: -1472053940166446603
+    second: Mini Boss - Hitman Bunny_8
+  - first:
+      213: -1424016101076210421
+    second: Mini Boss - Hitman Bunny_9
+  - first:
+      213: -4801666482050029365
+    second: Mini Boss - Hitman Bunny_10
+  - first:
+      213: -7556973196033899018
+    second: Mini Boss - Hitman Bunny_11
+  - first:
+      213: -1485608597066289325
+    second: Mini Boss - Hitman Bunny_12
+  - first:
+      213: 3659865146217133856
+    second: Mini Boss - Hitman Bunny_13
+  - first:
+      213: -5491442412829227444
+    second: Mini Boss - Hitman Bunny_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 150
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56baea36e950db3e0800000000000000
+      internalID: -2036465278666232987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ba9505db2d2170800000000000000
+      internalID: 8155222694159889361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 107
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c7e4f21bf62c40800000000000000
+      internalID: 5487349254834342323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 106
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97acdbd11e1777110800000000000000
+      internalID: 1258599832553900665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 101
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b716fbe41f04df370800000000000000
+      internalID: 8357907888621969787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e33547304e623b90800000000000000
+      internalID: -7263622026910944279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 74
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc0f4ab8f55a920800000000000000
+      internalID: 3000909780084640645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 75
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa21c8cbad507b0800000000000000
+      internalID: -5258556486546444304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 100
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f13a2e9db6329be0800000000000000
+      internalID: -1472053940166446603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 99
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d6aec96e0ec3ce0800000000000000
+      internalID: -1424016101076210421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 72
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8228f56cd0d5db0800000000000000
+      internalID: -4801666482050029365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 76
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f54041baec302790800000000000000
+      internalID: -7556973196033899018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 71
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe8902ade026be0800000000000000
+      internalID: -1485608597066289325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 147
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027fa1ea5f37ac230800000000000000
+      internalID: 3659865146217133856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini Boss - Hitman Bunny_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 75
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ccce683a7ac3b0800000000000000
+      internalID: -5491442412829227444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mini Boss - Hitman Bunny_0: -2036465278666232987
+      Mini Boss - Hitman Bunny_1: 8155222694159889361
+      Mini Boss - Hitman Bunny_10: -4801666482050029365
+      Mini Boss - Hitman Bunny_11: -7556973196033899018
+      Mini Boss - Hitman Bunny_12: -1485608597066289325
+      Mini Boss - Hitman Bunny_13: 3659865146217133856
+      Mini Boss - Hitman Bunny_14: -5491442412829227444
+      Mini Boss - Hitman Bunny_2: 5487349254834342323
+      Mini Boss - Hitman Bunny_3: 1258599832553900665
+      Mini Boss - Hitman Bunny_4: 8357907888621969787
+      Mini Boss - Hitman Bunny_5: -7263622026910944279
+      Mini Boss - Hitman Bunny_6: 3000909780084640645
+      Mini Boss - Hitman Bunny_7: -5258556486546444304
+      Mini Boss - Hitman Bunny_8: -1472053940166446603
+      Mini Boss - Hitman Bunny_9: -1424016101076210421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

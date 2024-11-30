@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 3cdf75ad237b73f4f89b6126751208da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2372807775484555174
+    second: Characters - Bunny(Skin1)_0
+  - first:
+      213: 3162896897518016061
+    second: Characters - Bunny(Skin1)_1
+  - first:
+      213: 3104487467622674719
+    second: Characters - Bunny(Skin1)_2
+  - first:
+      213: -4538231008155489321
+    second: Characters - Bunny(Skin1)_3
+  - first:
+      213: -8566660871395242517
+    second: Characters - Bunny(Skin1)_4
+  - first:
+      213: 2553361276592110077
+    second: Characters - Bunny(Skin1)_5
+  - first:
+      213: -185223945061932377
+    second: Characters - Bunny(Skin1)_6
+  - first:
+      213: -5102139550252515747
+    second: Characters - Bunny(Skin1)_7
+  - first:
+      213: 5568100493575809470
+    second: Characters - Bunny(Skin1)_8
+  - first:
+      213: -6411298361912586205
+    second: Characters - Bunny(Skin1)_9
+  - first:
+      213: 8455310478388396025
+    second: Characters - Bunny(Skin1)_10
+  - first:
+      213: 7725835220993132025
+    second: Characters - Bunny(Skin1)_11
+  - first:
+      213: -3994683289435375438
+    second: Characters - Bunny(Skin1)_12
+  - first:
+      213: -8057879752409069283
+    second: Characters - Bunny(Skin1)_13
+  - first:
+      213: -8714000459712963336
+    second: Characters - Bunny(Skin1)_14
+  - first:
+      213: -2274262346551696352
+    second: Characters - Bunny(Skin1)_15
+  - first:
+      213: 1272593017061833430
+    second: Characters - Bunny(Skin1)_16
+  - first:
+      213: -2017291316003372254
+    second: Characters - Bunny(Skin1)_17
+  - first:
+      213: 2775700222575813730
+    second: Characters - Bunny(Skin1)_18
+  - first:
+      213: 2062617629807920385
+    second: Characters - Bunny(Skin1)_19
+  - first:
+      213: 5907272892807866486
+    second: Characters - Bunny(Skin1)_20
+  - first:
+      213: 4910770060116872452
+    second: Characters - Bunny(Skin1)_21
+  - first:
+      213: 625287359126333296
+    second: Characters - Bunny(Skin1)_22
+  - first:
+      213: 2396861795242892499
+    second: Characters - Bunny(Skin1)_23
+  - first:
+      213: -1563819074574161150
+    second: Characters - Bunny(Skin1)_24
+  - first:
+      213: 2282959057938929383
+    second: Characters - Bunny(Skin1)_25
+  - first:
+      213: -5005495461480100430
+    second: Characters - Bunny(Skin1)_26
+  - first:
+      213: 31767627133903811
+    second: Characters - Bunny(Skin1)_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 113
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5055fd56e7121fd0800000000000000
+      internalID: -2372807775484555174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 115
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d361fb578fdd4eb20800000000000000
+      internalID: 3162896897518016061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 113
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113d4d47ea551b20800000000000000
+      internalID: 3104487467622674719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 112
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbaa3251f6f401c0800000000000000
+      internalID: -4538231008155489321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 24
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5095806, y: 0.43102142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed8f39535b1d1980800000000000000
+      internalID: -8566660871395242517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 108
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4908193, y: 0.39483297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b2828d8c5f6320800000000000000
+      internalID: 2553361276592110077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 70
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2efa6adc3fd6df0800000000000000
+      internalID: -185223945061932377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3ab08c1f8139b0800000000000000
+      internalID: -5102139550252515747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb96349d5edd54d40800000000000000
+      internalID: 5568100493575809470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 71
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320182dbb1e7607a0800000000000000
+      internalID: -6411298361912586205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999934, y: 0.4222394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff7af9f41c475570800000000000000
+      internalID: 8455310478388396025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 69
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5118322, y: 0.36391863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f54f74433ea73b60800000000000000
+      internalID: 7725835220993132025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8f30786b80098c0800000000000000
+      internalID: -3994683289435375438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1948d2ce09ac2090800000000000000
+      internalID: -8057879752409069283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 32
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcd73a20c6a11780800000000000000
+      internalID: -8714000459712963336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0246db302723070e0800000000000000
+      internalID: -2274262346551696352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dafc954b9829a110800000000000000
+      internalID: 1272593017061833430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Characters - Bunny(Skin1)_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8223883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22383257c342104e0800000000000000
+      internalID: -2017291316003372254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: acb22e8d7bfa39940811114d3ac00297
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Characters - Bunny(Skin1)_0: -2372807775484555174
+      Characters - Bunny(Skin1)_1: 3162896897518016061
+      Characters - Bunny(Skin1)_10: 8455310478388396025
+      Characters - Bunny(Skin1)_11: 7725835220993132025
+      Characters - Bunny(Skin1)_12: -3994683289435375438
+      Characters - Bunny(Skin1)_13: -8057879752409069283
+      Characters - Bunny(Skin1)_14: -8714000459712963336
+      Characters - Bunny(Skin1)_15: -2274262346551696352
+      Characters - Bunny(Skin1)_16: 1272593017061833430
+      Characters - Bunny(Skin1)_17: -2017291316003372254
+      Characters - Bunny(Skin1)_18: 2775700222575813730
+      Characters - Bunny(Skin1)_19: 2062617629807920385
+      Characters - Bunny(Skin1)_2: 3104487467622674719
+      Characters - Bunny(Skin1)_20: 5907272892807866486
+      Characters - Bunny(Skin1)_21: 4910770060116872452
+      Characters - Bunny(Skin1)_22: 625287359126333296
+      Characters - Bunny(Skin1)_23: 2396861795242892499
+      Characters - Bunny(Skin1)_24: -1563819074574161150
+      Characters - Bunny(Skin1)_25: 2282959057938929383
+      Characters - Bunny(Skin1)_26: -5005495461480100430
+      Characters - Bunny(Skin1)_27: 31767627133903811
+      Characters - Bunny(Skin1)_3: -4538231008155489321
+      Characters - Bunny(Skin1)_4: -8566660871395242517
+      Characters - Bunny(Skin1)_5: 2553361276592110077
+      Characters - Bunny(Skin1)_6: -185223945061932377
+      Characters - Bunny(Skin1)_7: -5102139550252515747
+      Characters - Bunny(Skin1)_8: 5568100493575809470
+      Characters - Bunny(Skin1)_9: -6411298361912586205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
