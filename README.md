@@ -13,6 +13,12 @@
 
 **3. 예고편 / 시연영상**
 
-**4. 다운로드 주소**
+예고편: https://www.youtube.com/watch?v=blycGocW6tE
+시연1: 
+시연2:
 
-**5. 기술서 주소**
+**4. 다운로드**
+
+https://play.google.com/store/apps/details?id=com.StarKyu.Gunderground
+
+**5. 기술서**
