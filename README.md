@@ -31,7 +31,7 @@
 ### **3. 예고편 / 시연영상**
 
 예고편: https://www.youtube.com/watch?v=blycGocW6tE <br />
-시연1: https://www.youtube.com/watch?v=2Pc5PK7aST4  <br />
+시연1: https://www.youtube.com/watch?v=AvzZ-viC6i8&t=167s <br />
 시연2: https://www.youtube.com/watch?v=2Pc5PK7aST4
 
 ### **4. 다운로드**
