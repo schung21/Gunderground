@@ -40,4 +40,4 @@ https://play.google.com/store/apps/details?id=com.StarKyu.Gunderground
 
 ### **5. 기술서**
 
-
+https://docs.google.com/presentation/d/1yGq2JZafIW-Vk8akugX1qlQy3XNWdrX0/edit?usp=drive_link&ouid=115438967510295000920&rtpof=true&sd=true
