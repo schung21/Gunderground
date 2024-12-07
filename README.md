@@ -32,7 +32,7 @@
 
 예고편: https://www.youtube.com/watch?v=blycGocW6tE <br />
 시연1: https://www.youtube.com/watch?v=AvzZ-viC6i8&t <br />
-시연2: https://www.youtube.com/watch?v=RutFIGXbr20
+시연2: https://www.youtube.com/watch?v=nzUQoH9jp04
 
 ### **4. 다운로드**
 
